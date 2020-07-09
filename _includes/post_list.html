@@ -1,0 +1,9 @@
+{% if site.posts.size > 0 %}
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}">{{ post.title | downcase }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

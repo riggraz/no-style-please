@@ -1,1 +1,11 @@
-{{ content }}
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: "en" }}">
+        {%- include head.html -%}
+    <body>
+    <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            {{ content }}
+        </div>
+    </main>
+    </body>
+</html>

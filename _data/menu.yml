@@ -1,0 +1,28 @@
+entries:
+  - title: me
+    url: false
+    entries:
+      - title: riccardo graziosi
+        url: false
+      - title: email
+        url: mailto:riccardo.graziosi97@gmail.com
+      - title: github
+        url: http://github.com/riggraz/
+
+  - title: thoughts
+    post_list: true
+    url: false
+    entries: false
+
+  - title: another link
+    url: http://github.com/riggraz/
+    entries: false
+  
+  - title: another list
+    url: false
+    entries:
+      - title: with subitems
+        url: false
+        entries:
+          - title: with subsubitems
+            url: #
