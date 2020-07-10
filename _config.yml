@@ -1,7 +1,12 @@
-title: No Style, Please!
+title: no style, please!
 author: Riccardo Graziosi 
 email: riccardo.graziosi97@gmail.com
 url: http://github.com/riggraz/
 description: >
   A (nearly) no-css minimalist Jekyll theme.
 favicon: "./favicon.ico"
+
+theme_config:
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
