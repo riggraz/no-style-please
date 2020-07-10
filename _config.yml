@@ -6,7 +6,12 @@ description: >
   A (nearly) no-css minimalist Jekyll theme.
 favicon: "./logo.png"
 
+theme: no-style-please
+
 theme_config:
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
+
+plugins:
+  - jekyll-feed

@@ -14,9 +14,8 @@ entries:
     url: false
     entries: false
 
-  - title: another link
-    url: http://github.com/riggraz/
-    entries: false
+  - title: rss
+    url: feed.xml
   
   - title: another list
     url: false
