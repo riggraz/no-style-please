@@ -4,7 +4,9 @@ email: riccardo.graziosi97@gmail.com
 url: http://github.com/riggraz/
 description: >
   A (nearly) no-css minimalist Jekyll theme.
+
 favicon: "./logo.png"
+# goat_counter: "yoursitename" # if you want to use GoatCounter analytics
 
 theme: no-style-please
 
