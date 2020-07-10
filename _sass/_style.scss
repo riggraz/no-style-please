@@ -22,3 +22,8 @@ hr {
   &:before { content: '/////' }
   &:after { content: attr(data-content) '/////' }
 }
+
+table, th, td {
+  border: thin solid black;
+  border-collapse: collapse;
+}
