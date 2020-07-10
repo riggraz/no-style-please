@@ -3,11 +3,16 @@ body {
   background-color: white;
 
   font-family: monospace;
-  font-size: 1.4rem;
-  line-height: 1.4rem;
+  font-size: 1.3rem;
+  line-height: 1.3rem;
 }
 
 .wrapper {
+  width: fit-content;
   max-width: 640px;
-  margin: 3rem auto;
+  margin: 4rem auto;
+}
+
+h1 {
+  line-height: 2rem;
 }
