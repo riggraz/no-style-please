@@ -4,7 +4,7 @@ email: riccardo.graziosi97@gmail.com
 url: http://github.com/riggraz/
 description: >
   A (nearly) no-css minimalist Jekyll theme.
-favicon: "./favicon.ico"
+favicon: "./logo.png"
 
 theme_config:
   back_home_text: ".." # customize text for homepage link in post layout
