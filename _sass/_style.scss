@@ -1,7 +1,6 @@
 body {
   color: black;
   background-color: white;
-
   font-family: monospace;
   font-size: 1.3rem;
   line-height: 1.3rem;
@@ -11,8 +10,15 @@ body {
   width: fit-content;
   max-width: 640px;
   margin: 4rem auto;
+  padding: 0 1rem;
 }
 
-h1 {
-  line-height: 2rem;
+h1 { line-height: 2rem; }
+
+hr {
+  text-align: center;
+  border: 0;
+
+  &:before { content: '/////' }
+  &:after { content: attr(data-content) '/////' }
 }
