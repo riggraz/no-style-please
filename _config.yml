@@ -1,14 +1,14 @@
-title: no style, please!
-author: Riccardo Graziosi 
-email: riccardo.graziosi97@gmail.com
-url: http://github.com/riggraz/
-description: >
+title: no style, please! # name of the site
+author: Riccardo Graziosi # name of site's author
+email: riccardo.graziosi97@gmail.com # email of site's author
+url: http://github.com/riggraz/no-style-please # root address of the site
+description: > # description of the site (multiple lines allowed)
   A (nearly) no-css minimalist Jekyll theme.
 
-favicon: "./logo.png"
-# goat_counter: "yoursitename" # if you want to use GoatCounter analytics
+favicon: "./logo.png" # relative path to site's favicon
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
-theme: no-style-please
+theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
 theme_config:
   back_home_text: ".." # customize text for homepage link in post layout
