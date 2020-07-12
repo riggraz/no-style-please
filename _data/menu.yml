@@ -1,3 +1,6 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
 entries:
   - title: me
     url: false
@@ -25,3 +28,8 @@ entries:
         entries:
           - title: with subsubitems
             url: #
+  - title: PRO TIP
+    url: false
+    entries:
+      - title: to edit this menu, edit _data/menu.yml file
+        url: false
