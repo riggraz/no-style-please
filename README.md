@@ -2,6 +2,8 @@
 
 A (nearly) no-css minimalist [Jekyll](https://jekyllrb.com/) theme, inspired by [elly's site](http://tilde.town/~elly/).
 
+<img src="./screenshots/composition.png" />
+
 ## Installation
 
 If you haven't already created your blog using Jekyll, follow the [instructions](https://jekyllrb.com/docs/) to do so from Jekyll's documentation.
