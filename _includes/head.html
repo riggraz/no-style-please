@@ -3,10 +3,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>{{ site.title }}</title>
+  <title>
+    {% if page.title %}
+      {{ page.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
 
-  {% feed_meta %}
   {% seo title=false %}
+  {% feed_meta %}
   
   {% if site.goat_counter and jekyll.environment == "production" %}
     {% include goat_counter.html %}

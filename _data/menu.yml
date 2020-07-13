@@ -27,7 +27,9 @@ entries:
         url: false
         entries:
           - title: with subsubitems
-            url: #
+            url: false
+          - title: example page
+            url: about
   - title: PRO TIP
     url: false
     entries:
