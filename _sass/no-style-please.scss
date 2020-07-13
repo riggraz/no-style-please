@@ -7,7 +7,6 @@ body {
 }
 
 .wrapper {
-  width: fit-content;
   max-width: 640px;
   margin: 4rem auto;
   padding: 0 1rem;
@@ -26,4 +25,21 @@ hr {
 table, th, td {
   border: thin solid black;
   border-collapse: collapse;
+  padding: 0.4rem;
+}
+
+code {
+  display: block;
+  color: white;
+  background-color: black;
+  overflow-x: auto;
+  padding: 1rem;
+}
+
+blockquote {
+  font-style: italic;
+  border: thin solid black;
+  padding: 1rem;
+
+  p { margin: 0; }
 }

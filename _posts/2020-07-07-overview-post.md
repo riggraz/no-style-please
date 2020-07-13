@@ -51,10 +51,10 @@ Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus 
 
 Now some code:
 
-{% highlight javascript linenos %}
+```
 const ultimateTruth = 'this theme is the best!';
 console.log(ultimateTruth);
-{% endhighlight %}
+```
 
 ## Tables
 
