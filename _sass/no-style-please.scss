@@ -29,9 +29,12 @@ table, th, td {
 }
 
 code {
-  display: block;
   color: white;
   background-color: black;
+}
+
+div.highlighter-rouge code {
+  display: block;
   overflow-x: auto;
   padding: 1rem;
 }

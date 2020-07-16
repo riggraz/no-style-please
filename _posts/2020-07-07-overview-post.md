@@ -56,6 +56,8 @@ const ultimateTruth = 'this theme is the best!';
 console.log(ultimateTruth);
 ```
 
+And here is some `inline code`!
+
 ## Tables
 
 Now a table:
