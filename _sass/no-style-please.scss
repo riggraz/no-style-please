@@ -1,18 +1,23 @@
-body {
+html {
   color: black;
   background-color: white;
   font-family: monospace;
   font-size: 1.3rem;
-  line-height: 1.3rem;
+  line-height: 1.3;
+  -webkit-font-smoothing: antialiased;
 }
 
+h2, h3, h4, h5, h6 { margin-top: 3rem; }
+
+p { margin: 1rem 0; }
+
+li { margin: 0.4rem 0; }
+
 .wrapper {
-  max-width: 640px;
+  max-width: 60ch;
   margin: 4rem auto;
   padding: 0 1rem;
 }
-
-h1 { line-height: 2rem; }
 
 hr {
   text-align: center;
@@ -23,6 +28,7 @@ hr {
 }
 
 table, th, td {
+  width: 100%;
   border: thin solid black;
   border-collapse: collapse;
   padding: 0.4rem;
