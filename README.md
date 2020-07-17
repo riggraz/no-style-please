@@ -4,7 +4,7 @@
 
 [Try the demo out!](https://riggraz.dev/no-style-please/)
 
-<img src="./screenshots/composition.png" />
+<img src="./screenshots/featured-image.png" />
 
 ## Installation
 
