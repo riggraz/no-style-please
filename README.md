@@ -1,8 +1,9 @@
 # no style, please!
 
-<img src="./logo.png" width="64" align="left" /> A (nearly) no-CSS, fast, minimalist [Jekyll](https://jekyllrb.com/) theme. Inspired by [elly's site](http://tilde.town/~elly/), expressly created for [my personal blog](https://riggraz.dev/).
+<img src="./logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Jekyll](https://jekyllrb.com/) theme.
+Inspired by [elly's site](http://tilde.town/~elly/), expressly created for [my personal blog](https://riggraz.dev/).
 
-[Try the demo out!](https://riggraz.dev/no-style-please/)
+<h3 align="center"><a href="https://riggraz.dev/no-style-please/">Try the demo out!</a></h3>
 
 <img src="./screenshots/featured-image.png" />
 
