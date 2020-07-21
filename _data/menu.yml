@@ -2,15 +2,15 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: me
+  - title: info
     url: false
     entries:
-      - title: riccardo graziosi
+      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
         url: false
-      - title: email
-        url: mailto:riccardo.graziosi97@gmail.com
       - title: github
-        url: http://github.com/riggraz/
+        url: https://github.com/riggraz/no-style-please
+      - title: used by riggraz.dev
+        url: https://riggraz.dev/
 
   - title: thoughts
     post_list: true

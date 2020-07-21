@@ -3,7 +3,7 @@ author: Riccardo Graziosi # name of site's author
 email: riccardo.graziosi97@gmail.com # email of site's author
 url: https://riggraz.dev/no-style-please # root address of the site
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-css minimalist Jekyll theme.
+  A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
 favicon: "./logo.png" # relative path to site's favicon
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
