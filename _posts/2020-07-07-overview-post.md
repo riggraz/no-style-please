@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
 
 # Sample heading 1
 ## Sample heading 2
@@ -17,7 +17,7 @@ Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus 
 
 Unordered:
 
-- Fusce non velit cursus ligula mattis convallis vel at metus.
+- Fusce non velit cursus ligula mattis convallis vel at metus[^2].
 - Sed pharetra tellus massa, non elementum eros vulputate non.
 - Suspendisse potenti.
 
@@ -36,7 +36,7 @@ The following is a blockquote:
 
 ## Thematic breaks (<hr>)
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **You can put some text inside the horizontal rule like so.**
+Mauris viverra dictum ultricies[^3]. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **You can put some text inside the horizontal rule like so.**
 
 ---
 {: data-content="hr with text"}
@@ -72,4 +72,12 @@ Now a table:
 
 ![theme logo](https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png)
 
-Logo of *no style, please!* theme
+Logo of *no style, please!* theme[^4]
+
+---
+{: data-content="footnotes"}
+
+[^1]: this is a footnote. It should highlight if you click on the corresponding superscript number.
+[^2]: hey there, i'm using no style please!
+[^3]: this is another footnote.
+[^4]: this is a very very long footnote to test if a very very long footnote brings some problems or not. I strongly hope that there are no problems but you know sometimes problems arise from nowhere.
