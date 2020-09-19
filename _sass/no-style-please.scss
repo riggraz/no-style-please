@@ -1,3 +1,18 @@
+@mixin dark-appearance {
+  filter: invert(1);
+  img {
+    filter: invert(1);
+
+    &.ioda { filter: invert(0); }
+  }
+}
+
+html[a="dark"] { @include dark-appearance; }
+
+@media (prefers-color-scheme: dark) {
+  html[a="auto"] { @include dark-appearance; }
+}
+
 html {
   color: black;
   background-color: white;
