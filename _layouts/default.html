@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: "en" }}" a="{{ site.theme_config.appearance | default: "auto" }}">
+<html lang="{{ page.lang | default: "en" }}">
         {%- include head.html -%}
-    <body>
+    <body a="{{ site.theme_config.appearance | default: "auto" }}">
     <main class="page-content" aria-label="Content">
-        <div class="wrapper">
+        <div class="w">
             {{ content }}
         </div>
     </main>
