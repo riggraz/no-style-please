@@ -12,7 +12,7 @@
       {% include post_list.html %}
     {% endif %}
 
-    {% if item.entries != blank %}        
+    {% if item.entries %}
       {% include menu_item.html collection=item.entries %}
     {% endif %}
   {% endfor %}
