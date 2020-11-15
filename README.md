@@ -61,9 +61,9 @@ The `menu.yml` file accepts the following fields:
 
 - `entries` define a new unordered list that will contain menu entries
 - each entry is marked by a `-` at the beginning of the line
-- each entry has the following attributes:
-    - `title`, which defines the text to render for that menu entry
-    - `url`, which can either be a URL or `false`. If it is `false`, the entry will be rendered as plain text; otherwise the entry will be rendered as a link pointing to the specified URL. Note that the URL can either be relative or absolute.
+- each entry can have the following attributes:
+    - `title`, which defines the text to render for this menu entry (**NB: you can also specify HTML!**)
+    - `url`, which can be used to specify an URL for this entry. If not specified, `title` will be rendered as-is; otherwise `title` will be sorrounded by a link tag pointing to the specified URL. Note that the URL can either be relative or absolute. Also note that you can get the same result by placing an ```<a>``` tag in the `title` field.
     - `post_list`, which can be `true` or `false`. If it is true, the entry will have all posts in the site as subentries. This is used to render your post list.
     - `entries`, yes, you can have entries inside entries. In this way you can create nested sublists!
 
