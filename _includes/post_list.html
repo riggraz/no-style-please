@@ -1,9 +1,22 @@
-{% if site.posts.size > 0 %}
+{% if include.category %}
+  {% assign posts = site.categories[include.category] %}  
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% if include.limit and posts.size > include.limit %}
+  {% assign limit_exceeded = true %}
+{% endif %}
+
+{% if posts.size > 0 %}
   <ul>
-    {% for post in site.posts %}
-      <li>
-        {{ post.date | date: site.theme_config.date_format }} <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
-      </li>
+    {% for post in posts limit: include.limit %}
+        <li>
+          {{ post.date | date: site.theme_config.date_format }} <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
+        </li>
     {% endfor %}
+    {% if include.show_more and limit_exceeded %}
+      <li><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></li>
+    {% endif %}
   </ul>
 {% endif %}

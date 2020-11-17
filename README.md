@@ -64,7 +64,12 @@ The `menu.yml` file accepts the following fields:
 - each entry can have the following attributes:
     - `title`, which defines the text to render for this menu entry (**NB: you can also specify HTML!**)
     - `url`, which can be used to specify an URL for this entry. If not specified, `title` will be rendered as-is; otherwise `title` will be sorrounded by a link tag pointing to the specified URL. Note that the URL can either be relative or absolute. Also note that you can get the same result by placing an ```<a>``` tag in the `title` field.
-    - `post_list`, which can be `true` or `false`. If it is true, the entry will have all posts in the site as subentries. This is used to render your post list.
+    - `post_list`, which can be set either to `true` or to an object. If it is true, the entry will have a list of all posts as subentries. This is used to render your post list. If you want to customize which posts to render (e.g. by category), you can add one or more of the following attributes under `post_list`:
+        - `category`, which can be set to a string. It is used to render a list of posts of the specified category only. If you don't set it, then posts of all categories will be rendered.
+        - `limit`, which can be set to a number. It specifies the number of posts to show. If not set, all posts will be rendered.
+        - `show_more`, which can be true. If it is true and if the number of posts to show is greater than the specified `limit`, render a link to another page. To specify the URL and the text of the link, you can set `show_more_url` and `show_more_text` attributes, which are documented below.
+        - `show_more_url`, which can be a string. It specifies the URL for the show more link. Use only if `show_more` is true.
+        - `show_more_text`, which can be a string. It specifies the text for the show more link. Use only if `show_more` is true.
     - `entries`, yes, you can have entries inside entries. In this way you can create nested sublists!
 
 ### Custom index page
