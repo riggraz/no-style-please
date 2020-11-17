@@ -11,14 +11,17 @@ entries:
 
   - title: all posts
     post_list:
-      limit: 4
+      limit: 5
       show_more: true
-      show_more_text: See more posts...
-      show_more_url: /about
+      show_more_text: See archive...
+      show_more_url: /all-posts
 
   - title: posts by category
     post_list:
       category: example2
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: /example2
 
   - title: rss
     url: feed.xml
