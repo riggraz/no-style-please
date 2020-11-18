@@ -6,6 +6,8 @@
 
 {% if include.limit and posts.size > include.limit %}
   {% assign limit_exceeded = true %}
+{% else %}
+  {% assign limit_exceeded = false %}
 {% endif %}
 
 {% if posts.size > 0 %}
