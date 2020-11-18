@@ -4,11 +4,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <title>
-    {% if page.title %}
+    {%- if page.title -%}
       {{ page.title }}
-    {% else %}
+    {%- else -%}
       {{ site.title }}
-    {% endif %}
+    {%- endif -%}
   </title>
 
   {% seo title=false %}
