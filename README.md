@@ -9,7 +9,7 @@ Inspired by [elly's site](http://tilde.town/~elly/), expressly created for [my p
 
 ## Features
 
-* Fast (**< 1kb of CSS**, currently 955 bytes. For more information on performance and more, see [Page Speed Insights report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/page-speed-insights-report.png) and [Lighthouse report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/lighthouse-report.png))
+* Fast (**1kb of CSS!** For more information on performance and more, see [Page Speed Insights report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/page-speed-insights-report.png) and [Lighthouse report](https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/lighthouse-report.png))
 * Light, dark and auto modes
 * Responsive
 * Content first (typography optimized for maximum readability)
