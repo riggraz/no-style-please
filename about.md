@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title: About
 ---
 
 This is an example page!
 
-Actually, it has the same layout of a post...
+It's very similar to a `post` layout, with the only difference that the publish date is not shown!
