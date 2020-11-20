@@ -2,12 +2,13 @@ title: no style, please! # name of the site
 author: Riccardo Graziosi # name of site's author
 email: riccardo.graziosi97@gmail.com # email of site's author
 url: https://riggraz.dev/no-style-please # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
 permalink: /:slug.html
 
-favicon: "./logo.png" # relative path to site's favicon
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
 theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
