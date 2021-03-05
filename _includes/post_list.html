@@ -1,14 +1,14 @@
-{% if include.category %}
-  {% assign posts = site.categories[include.category] %}  
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
+{%-if include.category-%}
+  {%-assign posts = site.categories[include.category]-%}  
+{%-else-%}
+  {%-assign posts = site.posts-%}
+{%-endif-%}
 
-{% if include.limit and posts.size > include.limit %}
-  {% assign limit_exceeded = true %}
-{% else %}
-  {% assign limit_exceeded = false %}
-{% endif %}
+{%-if include.limit and posts.size > include.limit-%}
+  {%-assign limit_exceeded = true-%}
+{%-else-%}
+  {%-assign limit_exceeded = false-%}
+{%-endif-%}
 
 {%- if posts.size > 0 -%}
   <ul>

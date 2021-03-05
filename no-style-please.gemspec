@@ -15,4 +15,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll", "~> 3.8.7"
   spec.add_runtime_dependency "jekyll-feed", "~> 0.13.0"
   spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.6.1"
+
 end
