@@ -59,8 +59,9 @@ hr {
   &:after { content: attr(data-content) '/////' }
 }
 
+table { width: 100%; }
+
 table, th, td {
-  width: 100%;
   border: thin solid black;
   border-collapse: collapse;
   padding: 0.4rem;
