@@ -4,14 +4,14 @@ email: byronyego@gmail.com
 url: https://byron.wtf.dev 
 baseurl: "/no-style-please" 
 description: > 
-  A (nearly) no-CSS, fast, minimalist Jekyll site for Byron Yego
+  Hi, my name is Byron Yego & I'm a Kenyan-based 🇰🇪 software engineer who specializes in building (and occasionally designing) exceptional digital experiences.
 
 permalink: /:slug.html
 
 favicon: "logo.png" # 
 # goat_counter: "byron.wtf" 
 
-theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+theme: no-style-please 
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
