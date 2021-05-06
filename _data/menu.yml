@@ -2,9 +2,9 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: 1️⃣ intro
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: my name is byron yego and I'm a multidisciplinary, software developer and fulstack designer from Nairobi .
       - title: github repo
         url: https://github.com/riggraz/no-style-please
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
