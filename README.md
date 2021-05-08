@@ -1,11 +1,8 @@
 # no style, please!
 
-<img src="https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Jekyll](https://jekyllrb.com/) theme.
-Inspired by [elly's site](http://tilde.town/~elly/), expressly created for [my personal blog](https://riggraz.dev/).
+A (nearly) no-CSS, fast, minimalist [Jekyll](https://jekyllrb.com/) theme.
+Inspired by [elly's site](http://tilde.town/~elly/).
 
-<h3 align="center"><a href="https://riggraz.dev/no-style-please/">Try the demo out!</a></h3>
-
-<img src="https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/featured-image.png" />
 
 ## Features
 
@@ -72,9 +69,6 @@ The `menu.yml` file accepts the following fields:
         - `show_more_text`, which can be a string. It specifies the text for the show more link. Use only if `show_more` is true.
     - `entries`, yes, you can have entries inside entries. In this way you can create nested sublists!
 
-### Create archive pages
-
-A so-called archive page is a page that shows a list of posts (see [this](https://riggraz.dev/no-style-please/all-posts) for an example). You can create an archive page by creating a page and putting the following frontmatter:
 
 ```
 ---
