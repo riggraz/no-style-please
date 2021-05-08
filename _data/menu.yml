@@ -9,7 +9,7 @@ entries:
         url: https://tamingyourtech.blogspot.com/
       - title: "Fast-forward to today, and I've had the privilege of working at an<a href='#'> advertising agency</a>, <a href='#'>a start-up</a>, a huge corporation and a student-led design studio. My main focus these days is building accessible, inclusive products and digital experiences at Cashia for a variety of clients."
 
-  - title: all posts
+  - title: 👨‍💻 dev work
     post_list:
       limit: 5
       show_more: true
