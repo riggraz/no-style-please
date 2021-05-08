@@ -1,8 +1,8 @@
 title: hello 👋🏾, i'm byron! 
 author: Byron Yego 
 email: byronyego@gmail.com
-url: https://byron.wtf.dev 
-baseurl: "/no-style-please" 
+url: https://byron.wtf/ 
+baseurl: "" 
 description: > 
   Hi, my name is Byron Yego & I'm a Kenyan-based 🇰🇪 software engineer who specializes in building (and occasionally designing) exceptional digital experiences.
 
@@ -11,7 +11,7 @@ permalink: /:slug.html
 favicon: "logo.png" # 
 # goat_counter: "byron.wtf" 
 
-theme: no-style-please 
+renote_theme: riggraz/no-style-please 
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
@@ -24,3 +24,17 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
+
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
