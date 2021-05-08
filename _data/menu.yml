@@ -2,14 +2,14 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: 1️⃣ intro
+  - title: ☝🏾 intro
     entries:
       - title: My interest in web development started back in 2013 when I decided to try editing custom Blogspot themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!
       - title: check out my first blog
         url: https://tamingyourtech.blogspot.com/
       - title: "Fast-forward to today, and I've had the privilege of working at an<a href='#'> advertising agency</a>, <a href='#'>a start-up</a>, a huge corporation and a student-led design studio. My main focus these days is building accessible, inclusive products and digital experiences at Cashia for a variety of clients."
 
-  - title: 👨‍💻 dev work
+  - title: 👨🏾‍💻 dev work
     post_list:
       limit: 5
       show_more: true
