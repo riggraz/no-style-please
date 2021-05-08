@@ -8,7 +8,7 @@ description: >
 
 permalink: /:slug.html
 
-favicon: "logo.png" # 
+favicon: "favicon-32x32.png" # 
 # goat_counter: "byron.wtf" 
 
 renote_theme: riggraz/no-style-please 
