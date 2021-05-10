@@ -18,6 +18,8 @@ entries:
           - title: Ruby (Jekyll) 
           - title: Node
           - title: Next & Nuxt JS 
+          - title: Typescript
+          - title: Tailwind CSS
 
   - title: 👨🏾‍💻 where i've worked
     post_list:
