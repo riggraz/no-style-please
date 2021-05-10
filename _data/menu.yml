@@ -33,11 +33,13 @@ entries:
     # show_more: true
     # show_more_text: See more posts...
     # show_more_url: example2-archive.html
+    entries:
+      - title: with subitems
+        entries:
+          - title: with subsubitems
+          - title: example page
+            url: about
     
-      entries: 
-        - title: aseto
-         # url: aseto
-        - title: afriziki
 
   - title: 🖥 other worthy projects
     url: feed.xml
