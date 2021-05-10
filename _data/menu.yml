@@ -28,16 +28,16 @@ entries:
 
   - title: 💻 some stuff i've built (or helped build)
     
-    #post_list:
-    #  category: example2
-    # show_more: true
-    # show_more_text: See more posts...
-    # show_more_url: example2-archive.html
     entries:
-      - title: with subitems
+      - title: these are just a select few
         entries:
-          - title: with subsubitems
-          - title: example page
+          - title: east fm website
+            url: eastfm
+          - title: pitisha
+            url: about
+          - title: dukachapchap
+            url: about
+          - title: vulcan
             url: about
     
 
@@ -46,10 +46,10 @@ entries:
   
   - title: 📲 get in touch
     entries:
-      - title: with subitems
+      - title: i go by @alfaxit on Twitter and Byron Yego on other SM sites.
         entries:
-          - title: with subsubitems
-          - title: example page
+          - title: wanna call me? 🤔
+          - title: email me page
             url: about
   - title: my resumé?🤔
     entries:
