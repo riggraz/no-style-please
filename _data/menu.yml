@@ -34,10 +34,10 @@ entries:
     # show_more_text: See more posts...
     # show_more_url: example2-archive.html
     
-    entries: 
-      - title: aseto
-          url: aseto
-      - title: afriziki
+      entries: 
+        - title: aseto
+         # url: aseto
+        - title: afriziki
 
   - title: 🖥 other worthy projects
     url: feed.xml
