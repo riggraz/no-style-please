@@ -27,11 +27,17 @@ entries:
       show_more_url: archive.html
 
   - title: 💻 some stuff i've built (or helped build)
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+    
+    #post_list:
+    #  category: example2
+    # show_more: true
+    # show_more_text: See more posts...
+    # show_more_url: example2-archive.html
+    
+    entries: 
+      - title: aseto
+          url: aseto
+      - title: afriziki
 
   - title: 🖥 other worthy projects
     url: feed.xml
