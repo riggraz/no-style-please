@@ -40,9 +40,6 @@ entries:
           - title: vulcan
             url: about
     
-
-  - title: 🖥 other worthy projects on bēhance
-    url: https://www.behance.net/byronyego
   
   - title: 📲 get in touch
     entries:
@@ -50,5 +47,9 @@ entries:
         entries:
           - title: twitter
             url: https://twitter.com/alfaxit
+          - title: github
+            url: https://github.com/byronyg
+          - title: bēhance
+            url: https://www.behance.net/byronyego
           - title: email me 
             url: about
