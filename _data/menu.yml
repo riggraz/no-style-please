@@ -4,35 +4,52 @@
 entries:
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: this is a not-so-secret place for me to keep track of projects, free of aesthetics.
+      - title: last updated - 15.5.2021
+      - title: main website
+        url: https://aleesteele.com
+      - title: "thanks <a href='https://riggraz.dev'>riggraz.dev</a> for the template."
 
-  - title: all posts
+  - title: stuff i am working on
+    entries:
+      - title: dissertation (yikes)
+      - title: apps! (double yikes)
+      - title: supply chains
+        entries:
+          - title: website
+            url: https://www.supply-chains.us/
+          - title: reading group
+            url: https://t.me/joinchat/rzkjk9hBHj42YjNk
+          - title: miroboard
+            url: https://miro.com/welcomeonboard/KcpppVnpSzstEO1ctRBR6VVhwMXR71Da1zxdDjyPN5yPg9Zftc4bvsuE
+          - title: mozfest talk
+            url: https://pretalx.com/mozfest-2021/talk/BVRPBQ/
+          - title: csv,conf talk
+            url: https://csvconf.com/speakers/#anne-lee-steele
+          - title: rightscon talk (pending)
+          - title: primer conf talk (pending)
+      - title: okf frictionless fellowship
+        entries:
+          - title: final blog
+          - title: open data day blog
+      - title: open source social science
+        entries:
+          - title: main page
+            url: https://open-source-social-science.github.io/
+          - title: dissertation
+          - title: documentation
+
+  - title: project wish list
+    entries:
+      - title: open source tools for social scientists
+      - title: apps! (yikes)
+
+  - title: completed
     post_list:
       limit: 5
-      show_more: true
+      show_more: false
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
   - title: rss
     url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
