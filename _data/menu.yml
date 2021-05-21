@@ -1,6 +1,3 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
   - title: ☝🏾 intro
     entries:
@@ -14,7 +11,7 @@ entries:
           - title: Vue
           - title: React 
           - title: Laravel && CodeIgniter
-          - title: Nativescript
+          - title: React Native
           - title: Ruby (Jekyll) 
           - title: Node
           - title: Next & Nuxt JS 
@@ -24,7 +21,7 @@ entries:
   - title: 👨🏾‍💻 where i've worked
     post_list:
       limit: 7
-      show_more: true
+      show_more: false
       show_more_text: See archive...
       show_more_url: archive.html
 
