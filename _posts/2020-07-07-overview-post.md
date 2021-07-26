@@ -73,6 +73,8 @@ Now a table:
 
 ![theme logo](https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png){:.ioda}
 
+![theme logo](https://github.com/grooviiee/grooviiee.github.io/blob/main/_screenshots/lighthouse-report.png){:.ioda}
+
 Logo of *no style, please!* theme[^4]
 
 ---
