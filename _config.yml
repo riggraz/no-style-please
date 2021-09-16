@@ -1,10 +1,10 @@
-title: a place for me to rant. # name of the site
+title: a place for me to rant # name of the site
 author: Rodolfo Olivieri # name of site's author
 email: rodolfo.olivieri3@gmail.com # email of site's author
 url: https://r0x0d.github.io # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Hello, everyone! This is my personal blog to rant about random things that I enjoy.
+  Hello, everyone! This is my personal blog to rant about random things that I enjoy
 
 permalink: /:slug.html
 
