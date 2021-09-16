@@ -11,6 +11,8 @@ entries:
 
   - title: info
     entries:
+      - title: email
+        url: mailto:rodofo.olivieri3@gmail.com
       - title: github
         url: https://github.com/r0x0d
       - title: twitter
