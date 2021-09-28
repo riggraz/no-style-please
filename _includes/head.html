@@ -1,19 +1,27 @@
 <head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>{{ page.title }}</title>
+  {%- seo title=false -%}
 
-  <title>
-    {%- if page.title -%}
-      {{ page.title }}
+  {% if page.robots %}
+    <meta name="robots" content="{{page.robots}}" />
+  {% endif %}
+
+  {%- if site.listen_for_clients_preferred_style -%}
+    <link rel="stylesheet" type="text/css" href="{{ "/assets/main.css" | relative_url }}">
+  {%- else -%}
+    {%- if site.style == 'light' -%}
+      <link rel="stylesheet" type="text/css" href="{{ "/assets/main-light.css" | relative_url }}">
+    {%- elsif site.style == 'hacker' -%}
+      <link rel="stylesheet" type="text/css" href="{{ "/assets/main-hacker.css" | relative_url }}">
     {%- else -%}
-      {{ site.title }}
+      <link rel="stylesheet" type="text/css" href="{{ "/assets/main-dark.css" | relative_url }}">
     {%- endif -%}
-  </title>
+  {%- endif -%}
 
-  {%-seo title=false-%}
-  {%-feed_meta-%}
-
-  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
 </head>

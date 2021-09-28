@@ -1,6 +1,6 @@
 ---
 layout: post
-category: example
+category: portfolio
 ---
 
 no
