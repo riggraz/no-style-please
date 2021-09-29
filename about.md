@@ -9,9 +9,9 @@ permalink: /about
 
 I'm a writer, researcher, and technologist based in Geneva, Switzerland.
 
-Currently, I'm an MA candidate and Research Assistant at the Graduate Institute of International and Development Studies, Geneva. I was recently a <a href="https://fellows.frictionlessdata.io/" class="bio-link" photo_url="frictionless.png">Reproducible Research Fellow</a> at the Open Knowledge Foundation.
-
 Most of what I do aims to understand the people &amp; processes behind our digital lives (think: open source software, extractive industries, and supply chains).
+
+Currently, I'm an MA candidate and Research Assistant at the Graduate Institute of International and Development Studies, Geneva. I was recently a <a href="https://fellows.frictionlessdata.io/" class="bio-link" photo_url="frictionless.png">Reproducible Research Fellow</a> at the Open Knowledge Foundation.
 
 Before moving to Switzerland, I researched conservation in Bhutan, co-led student expeditions in Nepal, and coded data visualizations for a Washington DC think tank. As an undergraduate at Columbia University, I studied global cities and natural resource conflict. I also designed media for different organizations in New York City.
 
