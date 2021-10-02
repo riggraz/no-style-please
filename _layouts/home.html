@@ -8,6 +8,12 @@ layout: default
   {%-endif-%}
 </header>
 
+{%-if site.theme_config.show_index_content_in_top-%}
+  {{ content }}
+{%-endif-%}
+
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
-{{ content }}
+{%-unless site.theme_config.show_index_content_in_top-%}
+  {{ content }}
+{%-endunless-%}
