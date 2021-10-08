@@ -13,7 +13,7 @@ Most of what I do aims to understand the people &amp; processes behind our digit
 
 Currently, I'm an MA candidate and Research Assistant at the Graduate Institute of International and Development Studies, Geneva. I was recently a <a href="https://fellows.frictionlessdata.io/" class="bio-link" photo_url="frictionless.png">Reproducible Research Fellow</a> at the Open Knowledge Foundation.
 
-Before moving to Switzerland, I researched conservation in Bhutan, co-led student expeditions in Nepal, and coded data visualizations for a Washington DC think tank. As an undergraduate at Columbia University, I studied global cities and natural resource conflict. I also designed media for different organizations in New York City.
+Before moving to Switzerland, I researched conservation in Bhutan, co-led student expeditions in Nepal, and coded data visualizations for a Washington DC think tank. As an undergraduate at Columbia University, I studied global cities and natural resource conflict. I also designed media for different organizations in New York City, and organized technology-arts festivals in New Zealand.
 
 When I'm not on a computer, I'm usually outside.
 
@@ -32,7 +32,7 @@ When I'm not on a computer, I'm usually outside.
 
 # design
 - <a href="https://res.cloudinary.com/aleesteele/image/upload/v1632865983/Steele-Portfolio_a8unhx.pdf">"i am not an artist"</a> (portfolio zine, 2019)
-- "supply chains are us"
+- "supply chains are us" - collages
 
 # other
 - <a href="https://open-source-social-science.github.io/" class="bio-link">open-source-social-science</a>

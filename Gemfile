@@ -5,3 +5,5 @@ gemspec
 
 
 gem 'jekyll-seo-tag'
+
+gem 'github-pages'
