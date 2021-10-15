@@ -22,7 +22,7 @@ When I'm not on a computer, I'm usually outside.
 - the atlas of extractive industries
 
 # featured writing
-- <a href="https://fellows.frictionlessdata.io/blog/anne-final-blog/">"endings, beginnings, and reflections"</a> (frictionless blog, 2021)
+- <a href="https://fellows.frictionlessdata.io/blog/anne-final-blog/">"endings, beginnings, and reflections"</a> (open knowledge foundation frictionless fellows blog, 2021)
 - <a href="https://www.graduateinstitute.ch/communications/news/open-movement-and-its-discontents">"the 'open' movement and its discontents"</a> (the graduate institute, 2020)
 - <a href="https://thegraduatepress.org/2020/11/16/who-writes-the-first-draft-of-history/">"who writes the first draft of history?"</a> (the graduate press, 2020)
 
