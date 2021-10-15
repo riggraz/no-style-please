@@ -24,6 +24,7 @@ When I'm not on a computer, I'm usually outside.
 # featured writing
 - <a href="https://fellows.frictionlessdata.io/blog/anne-final-blog/">"endings, beginnings, and reflections"</a> (frictionless blog, 2021)
 - <a href="https://www.graduateinstitute.ch/communications/news/open-movement-and-its-discontents">"the 'open' movement and its discontents"</a> (the graduate institute, 2020)
+- <a href="https://thegraduatepress.org/2020/11/16/who-writes-the-first-draft-of-history/">"who writes the first draft of history?"</a> (the graduate press, 2020)
 
 # talks + workshops
 - "data visualization and crowdsourced research: experiments in collective storytelling" (<a href="https://csvconf.com/speakers/#anne-lee-steele">csvconf</a>, rightscon, 2021)
