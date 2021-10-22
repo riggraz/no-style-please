@@ -1,7 +1,7 @@
 ---
 layout: post
 title: okf frictionless fellows program - the blog collection!
-date: 2020-03-09T23:00:00.000+00:00
+date: 2021-08-14 22:00:00 +0000
 category: blog
 
 ---
