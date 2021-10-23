@@ -17,11 +17,11 @@ we presented at a few conferences this spring, including MozFest, csv,CONF and R
 
 "The social life of (our) supply chains" (MozFest 2021, [discussion](https://web.archive.org/web/20210306110720/https://pretalx.com/mozfest-2021/talk/AK3TFM/) & exhibit)
 
-[screenshot](https://res.cloudinary.com/aleesteele/image/upload/v1634979885/Screenshot_2021-10-23_at_10.56.50_uxcrqx.png)
+[screenshot](https://res.cloudinary.com/aleesteele/image/upload/v1634980551/Screenshot_2021-10-23_at_11.06.18_zdcy8j.png)
 
 "Data visualization and crowdsourced research: experiments in collective storytelling" ([csv,CONF 2021](https://csvconf.com/speakers/#anne-lee-steele))
 
-[screenshot](/v1634979885/Screenshot_2021-10-23_at_10.56.50_uxcrqx.png)
+[screenshot](https://res.cloudinary.com/aleesteele/image/upload/v1634979885/Screenshot_2021-10-23_at_10.56.50_uxcrqx.png)
 
 "The social lives of our supply chains: crowdsourcing research for collctive education" ([RightsCon](https://rightscon.summit.tc/t/2021/events/the-social-lives-of-our-supply-chains-crowdsourcing-research-for-collective-education-vp6xEiWYk2nFEsxtnEPgmn), 2021)  
 **Note: video is only available on internal RightsCon platform.**
