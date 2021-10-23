@@ -9,7 +9,8 @@ over the past few months, my collaborator miriam matthiessen ([@miriammthsn](htt
 
 [supply-chains.us](supply-chains.us/) was our visual attempt at a digital exhibit. it was our attempt to creatively encapsulate the overwhelming _feeling_ of being in the supply chain, not just the logistical _factual_ nature of it. here are a few screenshots:
 
-[supply-chains.us description](/v1634980386/Screenshot_2021-10-23_at_11.09.45_d1cisu.png "screenshot")![everything we know has been extracted from the earth](/v1634980510/Screenshot_2021-10-23_at_11.14.49_acji3k.png "screenshot of raw materials page")
+<img src="https://res.cloudinary.com/aleesteele/image/upload/v1634980386/Screenshot_2021-10-23_at_11.09.45_d1cisu.png" alt="main page of supply-chains.us">
+<img src="https://res.cloudinary.com/aleesteele/image/upload/v1634980510/Screenshot_2021-10-23_at_11.14.49_acji3k.png" alt="sub page for raw materials">
 
 we presented at a few conferences this spring, including MozFest, csv,CONF and RightsCon! it was super exciting to get it out into the world, and we really feel like this is only the beginning.
 
