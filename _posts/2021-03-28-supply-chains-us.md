@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: blog post
 title: supply chains & us
 date: 2021-03-28 22:00:00 +0000
 category: ''
