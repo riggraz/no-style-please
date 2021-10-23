@@ -5,6 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
 - type: text
   name: title
   label: title
@@ -14,5 +15,6 @@ fields:
 - type: text
   name: category
   label: category
+  default: blog
 pages:
 - _posts/2021-03-28-supply-chains-us.md
