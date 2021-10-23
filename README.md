@@ -4,7 +4,7 @@ This is a personal project tracker. Pushing up against my visual instinct, tryin
 
 ## Features
 
-Built off of <a href="https://github.com/riggraz/no-style-please">no style please</a>.
+Built off of <a href="https://github.com/b2a3e8/jekyll-theme-console">jekyll theme console</a>.
 
 ## License
 
