@@ -13,7 +13,7 @@ over the past few months, my collaborator miriam matthiessen ([@miriammthsn](htt
 
 we presented at a few conferences this spring, including MozFest, csv,CONF and RightsCon! it was super exciting to get it out into the world, and we really feel like this is only the beginning.
 
-<img src="https://res.cloudinary.com/aleesteele/image/upload/v1634979697/Screenshot_2021-10-23_at_11.00.56_xddbqj.png alt="supply chains">
+<img src="https://res.cloudinary.com/aleesteele/image/upload/v1634979697/Screenshot_2021-10-23_at_11.00.56_xddbqj.png" alt="supply chains">
 
 "The social life of (our) supply chains" (MozFest 2021, [discussion](https://web.archive.org/web/20210306110720/https://pretalx.com/mozfest-2021/talk/AK3TFM/) & exhibit)
 
