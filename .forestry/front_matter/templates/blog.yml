@@ -18,3 +18,4 @@ fields:
   default: blog
 pages:
 - _posts/2021-03-28-supply-chains-us.md
+- _posts/the-re-source-project.md
