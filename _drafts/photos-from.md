@@ -37,7 +37,7 @@ In any case, I thought I would release every paper, project, and presentation I'
 * Critical approaches to design and data*
 * HOT Summit*
 * Open Data Day*
-* csv,CONF
+* csv,CONF*
 
 I also had to give a few presentations about some of the topics, and a few others for for classes. I don't count those, though.
 
