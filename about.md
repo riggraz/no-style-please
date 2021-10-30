@@ -30,10 +30,11 @@ When I'm not on a computer, I'm usually outside.
 
 # talks + workshops
 
-- "crisis maps, community, and corporations: anthropological perspectives on openstreetmap" (<a href="https://summit.hotosm.org/">hot summit</a>, 2021)
+- "crisis maps, community, and corporations: anthropological perspectives on openstreetmap" (<a href="https://summit.hotosm.org/">hot summit</a>, upcoming 2021)
 - "mapathons: spaces of care and catography" (<a href="gristsconference.wordpress.com/">grists</a>, harvard sts 2021)
 - "data visualization and crowdsourced research: experiments in collective storytelling" (<a href="https://csvconf.com/speakers/#anne-lee-steele">csvconf</a>, rightscon, 2021)
 - "the social life of (our) supply chains" (mozfest, 2021)
+
 
 # design
 
