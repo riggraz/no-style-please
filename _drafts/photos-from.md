@@ -1,9 +1,11 @@
 ---
 layout: post-blog
 title: Every paper, presentation, and project that I've done in grad school
-date: 2020-08-07T22:00:00.000+00:00
+date: 2021-10-23 22:00:00 +0000
 
 ---
+in an effort to motivate myself for my dissertation... and to return to my field notes after a few months hiatus...
+
 In any case, I thought I would release every paper, project, and presentation I've done in graduate school. Because these projects likely won't see the light of day (except for when I forcibly try to drop them in everyday conversation) ___
 
 ### Papers
@@ -31,13 +33,22 @@ In any case, I thought I would release every paper, project, and presentation I'
 * The Social Life of Supply Chains
 * Anthropology of Nature and Ontological Turn
 * Global Borderlands: Theories and Methods
+* The social life of (our) supply chains*
+* Critical approaches to design and data*
+* HOT Summit*
+* Open Data Day*
+* csv,CONF*
 
 I also had to give a few presentations about some of the topics, and a few others for for classes. I don't count those, though.
+
+\*
 
 ### Projects
 
 * Leyendos de Litio
 * De(mind) the Gap: Findings Report
+* Networks of Power at the Universal Periodic Review
 * Open Knowledge Foundation Fellowship
+* Supply Chains and Us (now The Re:Source Project)
 
 ##### I'll be updating this post with descriptions of each project... coming soon!
