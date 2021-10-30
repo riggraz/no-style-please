@@ -1,7 +1,6 @@
 # no style, please!
 
-This is a personal project tracker. Pushing up against my visual instinct, trying to keep track of different projects - and how they grow/develop over time.
-
+Personal website. Use `bundle exec jekyll serve`
 ## Features
 
 Built off of <a href="https://github.com/b2a3e8/jekyll-theme-console">jekyll theme console</a>.
