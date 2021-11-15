@@ -13,7 +13,7 @@ Most of what I do aims to understand the people &amp; processes behind our digit
 
 Currently, I'm an MA candidate and Research Assistant at the Graduate Institute of International and Development Studies, Geneva. I was recently a <a href="https://fellows.frictionlessdata.io/" class="bio-link" photo_url="frictionless.png">Reproducible Research Fellow</a> at the Open Knowledge Foundation.
 
-Before moving to Switzerland, I researched conservation in Bhutan, co-led student expeditions in Nepal, and coded data visualizations for a Washington DC think tank. As an undergraduate at Columbia University, I studied global cities and natural resource conflict. I also designed media for different organizations in New York City, and organized technology-arts festivals in New Zealand.
+Before moving to Switzerland, I researched conservation in Bhutan, co-led student expeditions in Nepal, and coded data visualizations for a Washington DC think tank. As an undergraduate at Columbia University, I studied global cities and natural resource conflict. I also designed media for different organizations in New York City, and organized a technology-arts festival in New Zealand. While I grew up in the shadow of the oil industry in Texas, I was born in Chicago, and mostly raised in a big blue van.
 
 When I'm not on a computer, I'm usually outside.
 
@@ -30,10 +30,10 @@ When I'm not on a computer, I'm usually outside.
 
 # talks + workshops
 
-- "crisis maps, community, and corporations: anthropological perspectives on openstreetmap" (<a href="https://summit.hotosm.org/">hot summit</a>, upcoming 2021)
-- "mapathons: spaces of care and catography" (<a href="gristsconference.wordpress.com/">grists</a>, harvard sts 2021)
-- "data visualization and crowdsourced research: experiments in collective storytelling" (<a href="https://csvconf.com/speakers/#anne-lee-steele">csvconf</a>, rightscon, 2021)
-- "the social life of (our) supply chains" (mozfest, 2021)
+- "crisis maps, community, and corporations: an anthropologist's perspective" (<a href="https://summit.hotosm.org/">hot summit</a>, 2021, slides)
+- "mapathons: spaces of care and cartography" (<a href="gristsconference.wordpress.com/">grists</a>, harvard sts 2021)
+- "data visualization and crowdsourced research: experiments in collective storytelling" (<a href="https://csvconf.com/speakers/#anne-lee-steele">csvconf</a>, rightscon, 2021, <a href="https://zenodo.org/record/4739237#.YJLasi8RqJ8">slides</a>)
+- "the social life of (our) supply chains" (mozfest, 2021, slides)
 
 
 # design
