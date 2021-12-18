@@ -1,0 +1,14 @@
+repos:
+- repo: https://github.com/igorshubovych/markdownlint-cli
+  rev: v0.30.0
+  hooks:
+  - id: markdownlint
+    exclude: ^(_site/|README.md)
+  - id: markdownlint-fix
+    exclude: ^(_site/|README.md)
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v4.0.1
+  hooks:
+  - id: trailing-whitespace
+  - id: end-of-file-fixer
+  - id: check-yaml

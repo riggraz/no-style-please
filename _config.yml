@@ -1,10 +1,11 @@
-title: a place for me to rant # name of the site
+title: wannabe mad scientist # name of the site
 author: Rodolfo Olivieri # name of site's author
 email: rodolfo.olivieri3@gmail.com # email of site's author
 url: https://r0x0d.github.io # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Hello, everyone! This is my personal blog to rant about random things that I enjoy
+  Hi, everyone! This is my personal blog to rant about random things that I
+  enjoy and also, post about my researches.
 
 permalink: /:slug.html
 
@@ -15,7 +16,7 @@ remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: ".." # customize text for homepage link in post layout
+  back_home_text: "<<" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
 
