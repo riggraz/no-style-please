@@ -1,0 +1,26 @@
+name: Lighthouse CI
+
+on: 
+  workflow_run:
+    types:
+      - completed
+    workflows:
+      - 'pages-build-deployment'
+
+jobs:
+  lighthouse:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    
+      - name: Checkout Sources 
+        uses: actions/checkout@v2
+      
+      - name: Audit URLs using Lighthouse
+        uses: treosh/lighthouse-ci-action@v8
+        with:
+          urls: |
+            https://r0x0d.github.io
+          uploadArtifacts: true # save results as an action artifacts
+          temporaryPublicStorage: true # upload lighthouse report to the temporary storage
