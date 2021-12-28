@@ -1,6 +1,6 @@
 name: Lighthouse CI
 
-on: 
+on:
   workflow_run:
     types:
       - completed
@@ -11,12 +11,12 @@ jobs:
   lighthouse:
 
     runs-on: ubuntu-latest
-    
+
     steps:
-    
-      - name: Checkout Sources 
+
+      - name: Checkout Sources
         uses: actions/checkout@v2
-      
+
       - name: Audit URLs using Lighthouse
         uses: treosh/lighthouse-ci-action@v8
         with:

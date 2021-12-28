@@ -6,9 +6,15 @@ layout: default
 
 <article>
   <p class="post-meta">
-    <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
+    {% if page.date-updated %}
+        <time datetime="{{ page.date }}">Published {{ page.date | date: site.theme_config.date_format }}</time>
+        <br>
+        <time datetime="{{ page.date-updated }}">Updated {{ page.date-updated | date: site.theme_config.date_format }}</time>
+    {% else %}
+        <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
+    {% endif %}
   </p>
-  
+
   <h1>{{ page.title }}</h1>
 
   {{ content }}
