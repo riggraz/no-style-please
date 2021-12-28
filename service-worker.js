@@ -6,7 +6,14 @@ const STATIC_CACHE_NAME = 'wannabe-mad-scientist-static';
 //rotas dos arquivos estáticos
 const CACHE_STATIC = [
     '/assets/css/main.css',
-    '/logo.png',
+    '/assets/icons/logo-72x72.png',
+    '/assets/icons/logo-96x96.png',
+    '/assets/icons/logo-128x128.png',
+    '/assets/icons/logo-144x144.png',
+    '/assets/icons/logo-152x152.png',
+    '/assets/icons/logo-192x192.png',
+    '/assets/icons/logo-384x384.png',
+    '/assets/icons/logo-512x512.png',
  ];
 
 //rotas das paginas do site
