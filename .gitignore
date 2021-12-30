@@ -6,3 +6,5 @@ _site
 vendor
 Gemfile.lock
 .jekyll-metadata
+node_modules
+assets/

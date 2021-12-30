@@ -15,10 +15,10 @@
   {%-seo title=false-%}
   {%-feed_meta-%}
 
-  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
   <link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl | prepend: site.url }}" />
   <link rel="apple-touch-icon" href="{{ "/assets/icons/logo-192x192.png" | relative_url }}" />
-  <script type="text/javascript" src="{{ "/assets/js/sw.js" | prepend: site.baseurl | prepend: site.url }}"></script>
-  <script type="text/javascript" src="{{ "/assets/js/theme-toggle.js" | prepend: site.baseurl | prepend: site.url }}"></script>
+  <script type="text/javascript" src="{{ "/assets/js/sw.js" | prepend: site.baseurl | prepend: site.url }}" async ></script>
+  <script type="text/javascript" src="{{ "/assets/js/theme-toggle.js" | prepend: site.baseurl | prepend: site.url }}" async></script>
 </head>

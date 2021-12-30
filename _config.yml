@@ -20,10 +20,17 @@ theme_config:
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
 
-sass:
-  style: :compressed
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-gist # https://github.com/jekyll/jekyll-gist
+
+# Exclude the following from the Jekyll build process.
+exclude: [
+          "vendor",
+          "_assets",
+          "Gemfile",
+          "Gemfile.lock",
+          "gulpfile.js",
+          "node_modules",
+          "package.json"]
