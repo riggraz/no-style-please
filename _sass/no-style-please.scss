@@ -31,6 +31,7 @@ body {
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
+  transition: background-color 1s;
 }
 
 .post-meta { text-align: right; }
@@ -99,4 +100,22 @@ img {
 
 .zoom:hover {
   transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 2rem;
+}
+
+.sun{
+    font-size: 3.6rem;
+    width: fit-content;
+    height: fit-content;
+}
+
+.sun-logo{
+    opacity: 1;
+    transform: translateY(0) rotateZ(0deg);
+    transition: all 1s ease-out;
 }
