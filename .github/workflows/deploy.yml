@@ -1,0 +1,34 @@
+name: Lighthouse CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  compile-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Sources
+        uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          cache: 'npm'
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7.5
+          bundler-cache: true
+
+      - name: Build with gulp
+        run: |
+          npm run build
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.7
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: _site # The folder the action should deploy.

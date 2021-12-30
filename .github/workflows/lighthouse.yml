@@ -5,7 +5,7 @@ on:
     types:
       - completed
     workflows:
-      - 'pages-build-deployment'
+      - 'compile-and-deploy'
 
 jobs:
   lighthouse:
