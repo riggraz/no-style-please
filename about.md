@@ -30,7 +30,7 @@ If you're interested in learning more about works in progress, check out my <a h
 
 # talks + workshops
 
-- "open data and open knowledge: rendering supply chains research in the vector economy" (<a href="">transmediale</a>, upcoming 2022, slides)
+- "rendering supply chain research in the vector economy" (<a href="">transmediale</a>, upcoming 2022, slides)
 - "crisis maps, community, and corporations: an anthropologist's perspective" (<a href="https://summit.hotosm.org/">hot summit</a>, 2021, slides)
 - "seeing like a supply chain" (<a href="">mozfest</a>, 2022, slides)
 - "mapathons: spaces of care and cartography" (<a href="gristsconference.wordpress.com/">grists</a>, harvard sts 2021)
