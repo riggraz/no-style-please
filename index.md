@@ -8,8 +8,8 @@ permalink: /
 # hey, i'm anne lee steele.
 
 i'm currently:
-@ <a href="http://graduateinstitute.ch/">iheid</a> finishing my MA dissertation on open source mapping
-@ <a href="http://transparencylab.org/">transparency lab</a> building the atlas of extractive industries
-@ <a href="https://www.wikimedia.de/unlock/">wikimedia</a> completing the unlock accelerator program
+@ <a href="https://www.turing.ac.uk/">the alan turing institute</a> supporting <a href="https://the-turing-way.netlify.app/welcome.html">the turing way</a>
+@ <a href="https://www.internetsociety.org/">the internet society</a> learning about internet satellites
 @ <a href="https://resource-project.co/">the re:source project</a> researching supply chains
+@ <a href="">open life science</a> learning about open practices
 +++ a [few other things](about)...
