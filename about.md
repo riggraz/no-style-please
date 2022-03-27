@@ -7,9 +7,9 @@ permalink: /about
 
 # anne lee steele
 
-I'm a researcher and free/open advocate based in London, in the United Kingdom.
+I'm a researcher based in the United Kingdom.
 
-Most of what I do aims to understand and support the people &amp; processes behind our digital lives (think: open source infrastructure, extractive industries, and supply chains). I approach most problems as an ethnographer first, and as a community-builder second.
+Most of what I do aims to understand and support the people &amp; processes behind our digital lives (think: open source infrastructure, extractive industries, and supply chains). I approach most situations as an ethnographer first, and as a community-builder second.
 
 Currently, I am the community manager for <a href="https://the-turing-way.netlify.app/welcome.html">The Turing Way</a>, based at the <a href="https://www.turing.ac.uk/">Alan Turing Institute</a>, where I am stewarding an open source, community-driven resource for reproducible data science. I'm also an <a href="https://www.internetsociety.org/fellowships/early-career/fellows/february-2022/">Early Career Fellow</a> at the <a href="https://www.internetsociety.org/">Internet Society</a>, where I'm investigating low earth orbit (LEO) satellite supply chains, and a co-curator of <a href="https://resource-project.co/">The Re:source Project</a>, which was incubated at Wikimedia Deutchland's <a href="https://www.wikimedia.de/unlock/">Unlock Accelerator</a>.
 
@@ -21,9 +21,9 @@ When I'm not on a computer, I'm usually outside – chasing waves to surf or fin
 
 # featured writing
 
-If you're interested in learning more about works in progress, check out my <a href="https://notes.aleesteele.com/">digital garden</a>. For more semi-formed thoughts and reflections, check out my blog.
+If you're interested in learning more about works in progress, check out my <a href="https://notes.aleesteele.com/">digital garden</a>. For somewhat more coherent thoughts and reflections, read my blog.
 
-- <a href="https://logicmag.io/clouds/">"omnivorous analysis: untangling the satellite supply chain"</a> (logic magazine, 2022)
+- <a href="https://logicmag.io/clouds/">"omnivorous analysis"</a> (logic magazine, 2022)
 - <a href="https://fellows.frictionlessdata.io/blog/anne-final-blog/">"endings, beginnings, and reflections"</a> (open knowledge foundation frictionless fellows blog, 2021)
 - <a href="https://www.graduateinstitute.ch/communications/news/open-movement-and-its-discontents">"the 'open' movement and its discontents"</a> (the graduate institute, 2020)
 - <a href="https://thegraduatepress.org/2020/11/16/who-writes-the-first-draft-of-history/">"who writes the first draft of history?"</a> (the graduate press, 2020)
