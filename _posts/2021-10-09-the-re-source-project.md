@@ -25,11 +25,11 @@ The world of product development differs from our prior experiences in two signi
 
 After a few days spent digesting Sprint #1, we set out to speak to potentially-interested users about the kind of content, features and tools they might find interesting or not. We soon learned that user research applied skills that we were already acquainted with as researchers. In fact, we realized that as social scientists, we could put experiences we already had to good use, and apply the theories we knew to understand how people understand supply chains and use technology.
 
-![UNLOCK 2021](https://www.wikimedia.de/unlock-site/wp-content/uploads/sites/19/2021/09/UNLOCK-2021_Project-SupplyChains_Personas-1440x706.png "user-personas" =1440x706)
+![](https://www.wikimedia.de/unlock-site/wp-content/uploads/sites/19/2021/09/UNLOCK-2021_Project-SupplyChains_Personas-1440x706.png)
 
-Throughout the user research process, we have had many rewarding interviews and conversations with researchers, trade unionists, investigative reporters, technologists and developers. Each one has helped us to understand which of our assumptions are likely to be valid, and which ones probably would not hold up to closer scrutiny. Slowly but surely, we’ve begun to understand what it means to “fail fast” and “get our hands dirty”, but also, how good user research can be used to build the foundation of any project, technical or not. Over the past two months alone, the form of our project has shapeshifted from a visual repository to a wiki-style resource, to an investigative crowdsourcing tool and finally to: a browser extension!
+Throughout the user research process, we have had many rewarding interviews and conversations with researchers, trade unionists, investigative reporters, technologists and developers. Each one has helped us to understand which of our assumptions are likely to be valid, and which ones probably would not hold up to closer scrutiny. Slowly but surely, we’ve begun to understand what it means to “fail fast” and “get our hands dirty”, but also, how good user research can be used to build the foundation of any project, technical or not. Over the past two months alone, the form of our project has shapeshifted from a visual repository to a wiki-style resource, to an investigative crowdsourcing tool and finally to: a browser extension.
 
-![UNLOCK 2021](https://www.wikimedia.de/unlock-site/wp-content/uploads/sites/19/2021/09/UNLOCK-2021_Project-SupplyChains_Browser-extension-benchmarking-1440x900.png "landscaping" =1440x900)
+![](https://www.wikimedia.de/unlock-site/wp-content/uploads/sites/19/2021/09/UNLOCK-2021_Project-SupplyChains_Browser-extension-benchmarking-1440x900.png)
 
 ### Taking our UNLOCK Learnings into the Final Accelerator Phase
 
