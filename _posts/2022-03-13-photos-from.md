@@ -2,6 +2,7 @@
 layout: post
 title: every paper, presentation, and project i've done in grad school
 date: 2022-03-13 23:00:00 +0000
+category: blog
 
 ---
 I recently completed my dissertation: ["Mapping crises, communities, and capitalism on OpenStreetMap"](https://twitter.com/aleesteele/status/1486295668465483781). It was a long and bumpy road, and while I'm processing a v2 version (after sending an initial copy out to everyone I spoke to)... I didn't want to lose the forest for the trees, and forget about the whole series of processes and projects that led to this point.
