@@ -1,6 +1,6 @@
 ---
 layout: post
-title: every paper, presentation, and project i've completed while in grad school
+title: every paper, presentation, and project i completed in grad school
 date: 2022-03-13 23:00:00 +0000
 category: blog
 
