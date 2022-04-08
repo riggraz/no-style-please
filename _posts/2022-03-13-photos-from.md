@@ -1,12 +1,12 @@
 ---
 layout: post-blog
 title: Every paper, presentation, and project that I've done in grad school
-date: 2021-10-23 22:00:00 +0000
+date: 2022-03-13 23:00:00 +0000
 
 ---
-in an effort to motivate myself for my dissertation... and to return to my field notes after a few months hiatus...
+I recently completed my dissertation: ["Mapping crises, communities, and capitalism on OpenStreetMap"](https://twitter.com/aleesteele/status/1486295668465483781). It was a long and bumpy road, and while I'm processing a v2 version (after sending an initial copy out to everyone I spoke to)... I didn't want to lose the forest for the trees, and forget about the whole series of processes and projects that led to this point.
 
-In any case, I thought I would release every paper, project, and presentation I've done in graduate school. Because these projects likely won't see the light of day (except for when I forcibly try to drop them in everyday conversation) ___
+In any case, I thought I would release every paper, project, and presentation I've ever done in graduate school. Because these projects likely won't see the light of day (except for when I forcibly try to drop them in everyday conversation), I thought it would give me a moment to reflect on the sheer amount of work that's been done over the past few years in my little corner of the world.
 
 ### Papers
 
@@ -23,25 +23,27 @@ In any case, I thought I would release every paper, project, and presentation I'
 * Between 'do good' and 'don't be evil': on the ethical landscapes of Google's stratospheric internet balloons
 * The State and/of the Map
 * Crowdsourced crisis-mapping & the infrastructure of open-source information
-* Open-source Humanitarianism: A study of online communities, crowdsourcing & corporations
+* Open-source Humanitarianism: A study of online communities, crowdsourcing & corporations (thesis proposal)
 
 ### Presentations
 
 * Experience and Ethnography in the Himalayas
 * The Graduate Press: Orientation Month 2020
-* Pierre Bourdieu: Theory of Practice
+* Pierre Bourdieu: Theories of Practice
 * The Social Life of Supply Chains
-* Anthropology of Nature and Ontological Turn
+* Anthropology of Nature and the Ontological Turn
 * Global Borderlands: Theories and Methods
 * The social life of (our) supply chains*
 * Critical approaches to design and data*
 * HOT Summit*
 * Open Data Day*
 * csv,CONF*
+* RightsCon*
+* Wikimedia Unlock Demo Day*
 
 I also had to give a few presentations about some of the topics, and a few others for for classes. I don't count those, though.
 
-\*
+\*Given during my time in graduate school, but not necessarily related to my time there.
 
 ### Projects
 
