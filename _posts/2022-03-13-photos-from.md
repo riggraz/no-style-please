@@ -1,6 +1,6 @@
 ---
-layout: post-blog
-title: Every paper, presentation, and project that I've done in grad school
+layout: post
+title: every paper, presentation, and project i've done in grad school
 date: 2022-03-13 23:00:00 +0000
 
 ---
