@@ -7,7 +7,7 @@ permalink: /about
 
 # anne lee steele
 
-I'm a researcher based in the United Kingdom.
+I'm a researcher based in the United Kingdom. (<a href="https://calendly.com/aleesteele/">Schedule a chat here</a>!)
 
 Most of what I do aims to understand and support the people &amp; processes behind our digital lives (think: open source infrastructure, extractive industries, and supply chains). I approach most situations as an ethnographer first, and as a community-builder second.
 
