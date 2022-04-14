@@ -4,8 +4,7 @@ entries:
       - title: My interest in web development started back in 2013 when I decided to try editing custom Blogspot themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!
       - title: check out my first blog
          url: https://tamingyourtech.blogspot.com/
-      - title: "Fast-forward to today, and I've had the privilege of working at an <a href="#" target="_blank">advertising agency</a>, <a href="https://kapudigital.com" target="_blank">a start-up</a>, <a href="https://eastfm.com/" target="_blank">a huge corporation</a> and <a href="https://stockpot.co.ke/" target="_blank">a student-led design studio</a>. My main focus these days is building accessible and inclusive digital experiences at <a href="https://cashia.com" target="_blank">Cashia</a>."
-      - title: Here are a few technologies I've been working with recently
+      - title: Here are a few technologies I have been working with recently
         entries:
           - title: React.js
           - title: Vue.js
@@ -32,7 +31,7 @@ entries:
         entries:
           - title: cashia
             url: cashia
-          - title: east fm website
+          - title: carstore
             url: eastfm
           - title: pitisha
             url: pitisha
