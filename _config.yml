@@ -14,7 +14,7 @@ favicon: "favicon-32x32.png" #
 renote_theme: riggraz/no-style-please 
 
 theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: "..go back" 
   date_format: "%Y-%m-%d" 
   show_description: true 
