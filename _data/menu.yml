@@ -3,7 +3,7 @@ entries:
     entries:
       - title: My interest in web development started back in 2013 when I decided to try editing custom Blogspot themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!
       - title: check out my first blog
-         url: https://tamingyourtech.blogspot.com/
+         # url: https://tamingyourtech.blogspot.com/
       - title: Here are a few technologies I have been working with recently
         entries:
           - title: React.js
