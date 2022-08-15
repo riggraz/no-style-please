@@ -19,6 +19,7 @@ When I'm not on a computer, I'm usually outside.
 
 # featured projects
 
+- <a href="https://mmm.page/internetsupplychains.main">above the clouds and below the sea</a>
 - <a href="https://resource-project.co/">the re:source project</a>
 - the atlas of extractive industries (coming soon)
 
