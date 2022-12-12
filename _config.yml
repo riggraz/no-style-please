@@ -25,3 +25,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# checking if this allows me to post "future" posts
+# from here: https://stackoverflow.com/questions/20422279/github-pages-are-not-updating
+future: true
