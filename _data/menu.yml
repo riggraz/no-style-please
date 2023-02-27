@@ -1,0 +1,8 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: Multiple View Geometry
+    entries:
+      - title: Trifocal Geometry
+        url:
