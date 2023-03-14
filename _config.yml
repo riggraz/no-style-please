@@ -14,7 +14,7 @@ header_pages:
  - blog.md
  - contact.md
 
-footer: 'made with peace in mind, by <a href="twitter.com/aleesteele">@aleesteele</a>'
+footer: 'made with peace in mind, by <a href="https://twitter.com/aleesteele">@aleesteele</a>'
 
 style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
