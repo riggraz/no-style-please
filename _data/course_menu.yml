@@ -1,0 +1,13 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: Wanna learn blockchain?
+    post_list:
+      limit: 5
+      category: "blockchain"
+  - title: Wanna learn javascript?
+    post_list:
+      limit: 5
+      category: "javascript"
+

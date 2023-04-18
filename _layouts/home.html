@@ -8,6 +8,7 @@ layout: default
   {%-endif-%}
 </header>
 
-{%-include menu_item.html collection=site.data.menu.entries-%}
+  {%-include menu_item.html collection=site.data.menu.entries-%}
+  {%-include course_menu_item.html collection=site.data.course_menu.entries-%}
 
 {{ content }}
