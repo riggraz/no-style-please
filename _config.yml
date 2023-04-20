@@ -1,7 +1,7 @@
 title: The Guide! # name of the site
 author: Otávio Vacari Martins # name of site's author
 email: otavio.vac@gmail.com # email of site's author
-url: theblockchainguide.org # root address of the site
+url: otaviootavio.github.io/the-guide-2/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: The blockchain guide
 
