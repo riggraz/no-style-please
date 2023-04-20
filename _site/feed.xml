@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="theblockchainguide.org/feed.xml" rel="self" type="application/atom+xml" /><link href="theblockchainguide.org/" rel="alternate" type="text/html" /><updated>2023-04-20T01:32:58-03:00</updated><id>theblockchainguide.org/feed.xml</id><title type="html">The Guide!</title><subtitle>The blockchain guide</subtitle><author><name>Otávio Vacari Martins</name></author><entry><title type="html">Getting started with blockchain</title><link href="theblockchainguide.org/blockchain-start.html" rel="alternate" type="text/html" title="Getting started with blockchain" /><published>2023-04-18T00:00:00-03:00</published><updated>2023-04-18T00:00:00-03:00</updated><id>theblockchainguide.org/blockchain-start</id><content type="html" xml:base="theblockchainguide.org/blockchain-start.html">&lt;p&gt;Getting started with blockchain
+Blockchain Fundamentals&lt;/p&gt;
+
+&lt;h2 id=&quot;web3-foundation&quot;&gt;Web3 Foundation&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/paylist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&quot;&gt;youtube&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a long and complex path to fully understand blockchain. This course is somewhere in between theoretical and academic and industry-focused. It’s great for those who want to learn from scratch.&lt;/p&gt;
+
+&lt;h2 id=&quot;tim-roughgarden&quot;&gt;Tim Roughgarden&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=KNJGPI0fuFA&amp;amp;list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA&quot;&gt;youtube&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a &lt;strong&gt;video lecture series&lt;/strong&gt; on the &lt;strong&gt;foundations of blockchains&lt;/strong&gt;, given by Tim Roughgarden.&lt;/p&gt;
+
+&lt;p&gt;The lectures are primarily intended for those with some &lt;strong&gt;computer science&lt;/strong&gt; background, including a familiarity with programming and mathematical concepts. Roughgarden aims to equip viewers with the tools and concepts to understand blockchain technologies and evaluate them intelligently, focusing on fundamental principles rather than nitty-gritty engineering details.&lt;/p&gt;
+
+&lt;p&gt;He emphasizes that this is a new area of computer science and engineering, and the opportunities for those with blockchain expertise are significant. Roughgarden hopes that the course will help viewers build something new and exciting in the upcoming years.&lt;/p&gt;</content><author><name>Otávio Vacari Martins</name></author><category term="blockchain" /><summary type="html">Getting started with blockchain Blockchain Fundamentals</summary></entry><entry><title type="html">How to study javascript!</title><link href="theblockchainguide.org/how-to-study-javascript.html" rel="alternate" type="text/html" title="How to study javascript!" /><published>2023-04-18T00:00:00-03:00</published><updated>2023-04-18T00:00:00-03:00</updated><id>theblockchainguide.org/how-to-study-javascript</id><content type="html" xml:base="theblockchainguide.org/how-to-study-javascript.html">&lt;p&gt;Embarking on your web development journey can feel like wandering through a maze. But worry not, we’ve curated a list of top resources to light your way!&lt;/p&gt;
+
+&lt;h3 id=&quot;where-to-learn&quot;&gt;Where to learn?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://web.dev/&quot;&gt;https://web.dev/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Web.dev by Google is your go-to hub for modern web development best practices and user experience. Perfect for all skill levels, but if you’re after in-depth documentation on HTML, CSS, or JavaScript, head to MDN.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/&quot;&gt;https://developer.mozilla.org/en-US/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;MDN is the ultimate one-stop-shop for web developers, with extensive guides and tutorials on web technologies. Ideal for beginners and pros alike, but seasoned developers seeking niche resources may want to look elsewhere.&lt;/p&gt;
+
+&lt;h3 id=&quot;more-advanced-stuff&quot;&gt;More advanced stuff&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.patterns.dev/posts#design-patterns&quot;&gt;https://www.patterns.dev/posts#design-patterns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Patterns.dev is your ticket to mastering software design patterns. Packed with well-structured articles and examples, it’s a treasure trove for developers of all levels but may not cater to non-developers or web-dev-only folks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide&quot;&gt;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The JavaScript Guide on MDN is every web developer’s dream, perfect for learning or honing JavaScript skills. However, it might not be relevant for non-web-based techies or advanced JavaScript pros.&lt;/p&gt;
+
+&lt;h2 id=&quot;learn-the-browsers&quot;&gt;Learn the browsers&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://web.dev/howbrowserswork/&quot;&gt;https://web.dev/howbrowserswork/&lt;/a&gt; Web.dev’s “How Browsers Work” guide is a goldmine for those eager to learn browser mechanics. Accessible and engaging, it’s a must for web developers and the browser-curious, but not as relevant for non-web tech enthusiasts.&lt;/p&gt;</content><author><name>Otávio Vacari Martins</name></author><category term="javascript" /><summary type="html">Embarking on your web development journey can feel like wandering through a maze. But worry not, we’ve curated a list of top resources to light your way!</summary></entry><entry><title type="html">Post Example With Headings And Toc</title><link href="theblockchainguide.org/post-example-with-headings-and-toc.html" rel="alternate" type="text/html" title="Post Example With Headings And Toc" /><published>2020-07-09T00:00:00-03:00</published><updated>2020-07-09T00:00:00-03:00</updated><id>theblockchainguide.org/post-example-with-headings-and-toc</id><content type="html" xml:base="theblockchainguide.org/post-example-with-headings-and-toc.html">&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.&lt;/p&gt;
+
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of contents&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#table-of-contents&quot;&gt;Table of contents&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-start&quot;&gt;The start&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-middle&quot;&gt;The middle&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-end&quot;&gt;The end&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-start&quot;&gt;&lt;a href=&quot;#the-start&quot;&gt;The start&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus massa, non elementum eros vulputate non. Suspendisse potenti. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida. Donec vitae elit tristique, suscipit eros at, aliquam augue. In ac faucibus dui. Sed tempor lacus tristique elit sagittis, vitae tempor massa convallis.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-middle&quot;&gt;&lt;a href=&quot;#the-middle&quot;&gt;The middle&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Proin quis velit et eros auctor laoreet. Aenean eget nibh odio. Suspendisse mollis enim pretium, fermentum urna vitae, egestas purus. Donec convallis tincidunt purus, scelerisque fermentum eros sagittis vel. Aliquam ac aliquet risus, tempus iaculis est. Fusce molestie mauris non interdum hendrerit. Curabitur ullamcorper, eros vitae interdum volutpat, lacus magna lacinia turpis, at accumsan dui tortor vel lectus. Aenean risus massa, semper non lectus rutrum, facilisis imperdiet mi. Praesent sed quam quis purus auctor ornare et sed augue. Vestibulum non quam quis ligula luctus placerat sed sit amet erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce auctor, sem eu volutpat dignissim, turpis nibh malesuada arcu, in consequat elit mauris quis sem. Nam tristique sit amet enim vel accumsan. Sed id nibh commodo, dictum sem id, semper quam.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-end&quot;&gt;The end&lt;/h2&gt;
+
+&lt;p&gt;Donec ex lectus, tempus non lacinia quis, pretium non ipsum. Praesent est nunc, rutrum vel tellus eu, tristique laoreet purus. In rutrum orci sit amet ex ornare, sit amet finibus lacus laoreet. Etiam ac facilisis purus, eget porttitor odio. Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus. Vivamus at purus sed urna sollicitudin mattis. Mauris lacinia libero in lobortis pulvinar. Nullam sit amet condimentum justo. Donec orci justo, pharetra ut dolor non, interdum finibus orci. Proin vitae ante a dui sodales commodo ac id elit. Nunc vel accumsan nunc, sit amet congue nunc. Aliquam in lacinia velit. Integer lobortis luctus eros, in fermentum metus aliquet a. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p&gt;</content><author><name>Otávio Vacari Martins</name></author><category term="example2" /><summary type="html">Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.</summary></entry><entry><title type="html">Post Example With Hr</title><link href="theblockchainguide.org/hr-example.html" rel="alternate" type="text/html" title="Post Example With Hr" /><published>2020-07-09T00:00:00-03:00</published><updated>2020-07-09T00:00:00-03:00</updated><id>theblockchainguide.org/hr%20example</id><content type="html" xml:base="theblockchainguide.org/hr-example.html">&lt;p&gt;Lorem ipsum&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis. Sed consectetur, nisl et semper laoreet, velit augue congue nunc, eget eleifend odio erat eu sapien. Phasellus dictum efficitur dapibus. Morbi porta lacinia tincidunt. Nam aliquet est mi, nec lacinia ipsum elementum sed. Nam feugiat ipsum tortor, et pretium purus sollicitudin et.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Mauris viverra dictum ultricies&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Vestibulum&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.&lt;/p&gt;
+
+&lt;p&gt;Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus massa, non elementum eros vulputate non. Suspendisse potenti. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida. Donec vitae elit tristique, suscipit eros at, aliquam augue. In ac faucibus dui. Sed tempor lacus tristique elit sagittis, vitae tempor massa convallis.&lt;/p&gt;
+
+&lt;hr data-content=&quot;discussions&quot; /&gt;
+
+&lt;p&gt;This article has been discussed here:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;lobste.rs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;/r/webdev&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Feel free to reach out at my email to leave feedback and talk about the article.&lt;/p&gt;
+
+&lt;hr data-content=&quot;footnotes&quot; /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Okay here I should put something about “ipsum”. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;same goes for this. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I studied latin in high school but im not able to translate &lt;em&gt;anything&lt;/em&gt;! By the way this is a longer footnote and i think it is still pretty cool, even prettier than shortier ones even though it does not say anything useful but whatever. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Otávio Vacari Martins</name></author><summary type="html">Lorem ipsum1 dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis. Sed consectetur, nisl et semper laoreet, velit augue congue nunc, eget eleifend odio erat eu sapien. Phasellus dictum efficitur dapibus. Morbi porta lacinia tincidunt. Nam aliquet est mi, nec lacinia ipsum elementum sed. Nam feugiat ipsum tortor, et pretium purus sollicitudin et. Okay here I should put something about “ipsum”. &amp;#8617;</summary></entry><entry><title type="html">Language Tests</title><link href="theblockchainguide.org/language-tests.html" rel="alternate" type="text/html" title="Language Tests" /><published>2020-07-08T00:00:00-03:00</published><updated>2020-07-08T00:00:00-03:00</updated><id>theblockchainguide.org/language-tests</id><content type="html" xml:base="theblockchainguide.org/language-tests.html">&lt;p&gt;Note: I took this test post from &lt;a href=&quot;https://github.com/huangyz0918/moving&quot;&gt;moving&lt;/a&gt;, which is another Jekyll theme which is better that this one so I should not have linked it because now you will decide to use it instead of mine.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-日本語テスト&quot;&gt;1. 日本語テスト&lt;/h3&gt;
+
+&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;
+
+&lt;p&gt;私は昨日ついにその助力家というのの上よりするたなけれ。
+最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。
+がたを知っないはずも同時に九月をいよいよたありた。&lt;/p&gt;
+
+&lt;p&gt;もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p&gt;
+
+&lt;p&gt;From &lt;a href=&quot;http://lipsum.sugutsukaeru.jp/index.cgi&quot;&gt;すぐ使えるダミーテキスト - 日本語 Lorem ipsum.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-繁体中文测试&quot;&gt;2. 繁体中文测试&lt;/h3&gt;
+
+&lt;p&gt;This is a chinese test post to show you how chinese is displayed.&lt;/p&gt;
+
+&lt;p&gt;善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p&gt;
+
+&lt;p&gt;以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p&gt;
+
+&lt;p&gt;就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我……月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p&gt;
+
+&lt;p&gt;國新故。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;工步他始能詩的，裝進分星海演意學值例道……於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;From &lt;a href=&quot;http://www.richyli.com/tool/loremipsum/&quot;&gt;亂數假文產生器 - Chinese Lorem Ipsum.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-简体中文测试&quot;&gt;3. 简体中文测试&lt;/h3&gt;
+
+&lt;p&gt;效育声去本义然空，各值太法心想，场强实地。 题铁习点儿表管少间千，只何政亲织文意部，千影画派证男须。 手反取长风治增非等直难群，连取及天他己事头级，影数弦适把气快目人。 专议以省通引而千个，格则口段度样水热马，地教少务改磨。 包思外心半院应她算斯，市外会快记路又火学，劳如肃它准众丧边。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;团算部住县单总边素格军所，合音府教看和广光采率位转，位用品根确针百。 证其标元角工方海接交他，论象切万世认一响义，治然身本风弦带题。 向我次路持加北，她不反心。 说总元军例市决，现始即算证养，规走还壳。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;因林可相儿应满军，热影省条律因资再，整肃赤心将届。 局广写两量备验还，南教事争工民的，备进研上布。 素身电活非直，速这区交示从，百层达。 资量那毛什京身，白这快。 半打容三手开常价或，手严量般象式效，名可重芽门适。 来设什一我么，光界美么或，住身式准。 造酸改表委验众办地百养，商物战众本列听度名院，制压录丽快与千机内。 住需当四议决得命南然照按民置，当住命形金决否矿单外。 气象理离开新集增际，三划方工义很年关，拉许准孝口。 构片出干计由备美打养，持育总指承入无己。&lt;/p&gt;
+
+&lt;p&gt;From &lt;a href=&quot;http://www.cancms.com/content/dummytext&quot;&gt;假文生成器， lorem ipsum Chinese&lt;/a&gt;&lt;/p&gt;</content><author><name>Otávio Vacari Martins</name></author><category term="example2" /><summary type="html">Note: I took this test post from moving, which is another Jekyll theme which is better that this one so I should not have linked it because now you will decide to use it instead of mine.</summary></entry><entry><title type="html">Very Very Very Long Title And Very Very Very Short Content</title><link href="theblockchainguide.org/very-very-very-long-title-and-very-very-very-short-content.html" rel="alternate" type="text/html" title="Very Very Very Long Title And Very Very Very Short Content" /><published>2020-07-08T00:00:00-03:00</published><updated>2020-07-08T00:00:00-03:00</updated><id>theblockchainguide.org/very-very-very-long-title-and-very-very-very-short-content</id><content type="html" xml:base="theblockchainguide.org/very-very-very-long-title-and-very-very-very-short-content.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis.&lt;/p&gt;</content><author><name>Otávio Vacari Martins</name></author><category term="example" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis.</summary></entry><entry><title type="html">Overview Post</title><link href="theblockchainguide.org/overview-post.html" rel="alternate" type="text/html" title="Overview Post" /><published>2020-07-07T00:00:00-03:00</published><updated>2020-07-07T00:00:00-03:00</updated><id>theblockchainguide.org/overview-post</id><content type="html" xml:base="theblockchainguide.org/overview-post.html">&lt;p&gt;Lorem ipsum&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.&lt;/p&gt;
+
+&lt;h1 id=&quot;sample-heading-1&quot;&gt;Sample heading 1&lt;/h1&gt;
+&lt;h2 id=&quot;sample-heading-2&quot;&gt;Sample heading 2&lt;/h2&gt;
+&lt;h3 id=&quot;sample-heading-3&quot;&gt;Sample heading 3&lt;/h3&gt;
+&lt;h4 id=&quot;sample-heading-4&quot;&gt;Sample heading 4&lt;/h4&gt;
+&lt;h5 id=&quot;sample-heading-5&quot;&gt;Sample heading 5&lt;/h5&gt;
+&lt;h6 id=&quot;sample-heading-6&quot;&gt;Sample heading 6&lt;/h6&gt;
+
+&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.&lt;/p&gt;
+
+&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
+
+&lt;p&gt;Unordered:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fusce non velit cursus ligula mattis convallis vel at metus&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+  &lt;li&gt;Sed pharetra tellus massa, non elementum eros vulputate non.&lt;/li&gt;
+  &lt;li&gt;Suspendisse potenti.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ordered:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc.&lt;/li&gt;
+  &lt;li&gt;Sed massa quam, auctor in eros quis, porttitor tincidunt orci.&lt;/li&gt;
+  &lt;li&gt;Nulla convallis id sapien ornare viverra.&lt;/li&gt;
+  &lt;li&gt;Nam a est eget ligula pellentesque posuere.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;blockquote&quot;&gt;Blockquote&lt;/h2&gt;
+
+&lt;p&gt;The following is a blockquote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;thematic-breaks-hr&quot;&gt;Thematic breaks (&amp;lt;hr&amp;gt;)&lt;/h2&gt;
+
+&lt;p&gt;Mauris viverra dictum ultricies&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. &lt;strong&gt;You can put some text inside the horizontal rule like so.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr data-content=&quot;hr with text&quot; /&gt;
+
+&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. &lt;strong&gt;Or you can just have an clean horizontal rule.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.&lt;/p&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;Now some code:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;const ultimateTruth = &apos;this theme is the best!&apos;;
+console.log(ultimateTruth);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;And here is some &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;inline code&lt;/code&gt;!&lt;/p&gt;
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;p&gt;Now a table:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Tables&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Are&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Cool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 3 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 2 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;zebra stripes&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png&quot; alt=&quot;theme logo&quot; class=&quot;ioda&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Logo of &lt;em&gt;no style, please!&lt;/em&gt; theme&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;hr data-content=&quot;footnotes&quot; /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;this is a footnote. It should highlight if you click on the corresponding superscript number. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;hey there, i’m using no style please! &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;this is another footnote. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;this is a very very long footnote to test if a very very long footnote brings some problems or not. I strongly hope that there are no problems but you know sometimes problems arise from nowhere. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Otávio Vacari Martins</name></author><category term="example" /><summary type="html">Lorem ipsum1 dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. this is a footnote. It should highlight if you click on the corresponding superscript number. &amp;#8617;</summary></entry><entry><title type="html">Strange Post</title><link href="theblockchainguide.org/strange-post.html" rel="alternate" type="text/html" title="Strange Post" /><published>2020-07-06T00:00:00-03:00</published><updated>2020-07-06T00:00:00-03:00</updated><id>theblockchainguide.org/strange-post</id><content type="html" xml:base="theblockchainguide.org/strange-post.html">&lt;p&gt;This post is strange. It also has some custom js.&lt;/p&gt;</content><author><name>Otávio Vacari Martins</name></author><summary type="html">This post is strange. It also has some custom js.</summary></entry></feed>
