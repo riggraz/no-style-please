@@ -1,38 +1,30 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
+# entries 사용법
+# - title: ***
+#   url: ***
+#   post_list:
+#     category: ***
+#     limit: ***
+#     show_more: ***
+#     show_more_text: ***
+#     show_more_url: ***
+#   entries:
+#     - title: ***
+#       url: ***
 entries:
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: "personal blog by <a href='https://github.com/bugpiggg'>bugpiggg</a>"
 
   - title: all posts
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: more...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: categories
     post_list:
       category: example2
       show_more: true
-      show_more_text: See more posts...
+      show_more_text: more...
       show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
