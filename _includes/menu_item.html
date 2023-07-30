@@ -19,6 +19,16 @@
      -%}
     {%-endif-%}
 
+    {%-if item.category_list-%}
+    {%
+      include category_list.html
+        limit=item.category_list.limit
+        show_more=item.category_list.show_more
+        show_more_text=item.category_list.show_more_text
+        show_more_url=item.category_list.show_more_url
+   -%}
+  {%-endif-%}
+
     {%-if item.entries-%}
       {%-include menu_item.html collection=item.entries-%}
     {%-endif-%}

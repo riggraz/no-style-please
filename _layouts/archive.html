@@ -6,4 +6,10 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-{%-include post_list.html category=page.which_category-%}
+{%-if page.archive-type == "post"-%}
+    {%-include post_list.html category=page.which_category-%}
+{%-endif-%}
+
+{%-if page.archive-type == "category"-%}
+    {%-include category_list.html show_posts=true-%}
+{%-endif-%}

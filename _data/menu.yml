@@ -7,6 +7,7 @@
 #     show_more: ***
 #     show_more_text: ***
 #     show_more_url: ***
+#     archive_type: post or category
 #   entries:
 #     - title: ***
 #       url: ***
@@ -20,11 +21,12 @@ entries:
       limit: 5
       show_more: true
       show_more_text: more...
-      show_more_url: archive.html
+      show_more_url: post-archive.html
 
-  - title: categories
-    post_list:
-      category: example2
+  - title: all categories
+    category_list:
+      limit: 1
       show_more: true
       show_more_text: more...
-      show_more_url: example2-archive.html
+      show_more_url: category-archive.html
+      

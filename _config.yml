@@ -2,11 +2,17 @@ title: bugpigg(g) # name of the site
 author: bugpiggg # name of site's author
 email: bugpigg@gmail.com # email of site's author
 url: https://bugpigg.com # root address of the site
-baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   personal blog by bugpigg(g).
 
 permalink: /:slug.html
+
+# Collections
+collections:
+    blog:
+        output: true
+        permalink: /:name
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics

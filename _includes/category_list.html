@@ -1,0 +1,24 @@
+{%-assign categories = site.categories-%}
+{%-if categories.size > 0-%}
+  <ul>
+    {%- for c in categories limit: include.limit -%}
+        {%-assign category_name = c[0] -%}
+        {%-assign category_url = c[0] | relative_url -%}
+        <li>
+          <a href="{{ category_url }}">{{ category_name | downcase }}</a>
+          {%- if include.show_posts and category_name and category_url-%}
+            {% include post_list.html 
+              category=category_name
+              limit = 3
+              show_more=true
+              show_more_text="more..."
+              show_more_url=category_url
+            %}
+          {%- endif -%}
+        </li>
+    {%- endfor -%}
+    {%- if include.show_more and limit_exceeded -%}
+      <li><a href="{{ include.show_more_url }}">{{ include.show_more_text}}</a></li>
+    {%- endif -%}
+  </ul>
+{%- endif -%}
