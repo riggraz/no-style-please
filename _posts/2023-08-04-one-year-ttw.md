@@ -1,7 +1,7 @@
 ---
 layout: post
 title: reviewing one year with The Turing Way
-date: 2023-08-05 23:00:00 +0000
+date: 2023-08-04 23:00:00 +0000
 category: blog
 
 ---
