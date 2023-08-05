@@ -13,20 +13,20 @@ Here's a short summary:
 
 ## Moderation: "Perspectives on AI-Assisted Mapping"
 
-- Session 1: https://www.youtube.com/watch?v=JTtTh6gHEwI
-- Session 2: https://www.youtube.com/watch?v=6pfdDV9xSoo
+- Session 1: [https://www.youtube.com/watch?v=JTtTh6gHEwI](https://www.youtube.com/watch?v=JTtTh6gHEwI)
+- Session 2: [https://www.youtube.com/watch?v=6pfdDV9xSoo](https://www.youtube.com/watch?v=6pfdDV9xSoo)
 
 These two sessions - recorded as hour-long discussions with unrecorded 30 minute discussions at the end, were really interesting (and much-needed!) community spaces for the OSM community. I'm grateful to have been given the trust needed to facilitate, and learned a lot from folks there. Most notably, I think the discussion primarily ended up focusing not on "what we should be building" but what AI means to mappers in the first place (these being very different things)!
 
 ## Talk: "Crisis Maps, Community, and Corporations (an Anthropologist’s perspective)"
-- Link: https://www.youtube.com/watch?v=_0a84F0pdNU&t=351s
-- 
+- Link: [https://www.youtube.com/watch?v=_0a84F0pdNU&t=351s](https://www.youtube.com/watch?v=_0a84F0pdNU&t=351s)
+- Slides: _Coming soon!_
 
 This was given at the Humanitarian OpenStreetMap Summit in 2021 in the form of a talk. It shared some of my initial thoughts around crisis mapping specifically, and citations in that direction. In particular, I focused a bit more on what defines the kinds of crises that become maps, and informational asymmetries within the community.
 
 ## Talk: "Mapping crises, communities and capitalism on OpenStreetMap: situating humanitarian mapping in the (open source) mapping supply chain"
-- Link: https://www.youtube.com/watch?v=kqkdY-NG0LI&t=636s
-- Slides: https://zenodo.org/record/7004452
+- Link: [https://www.youtube.com/watch?v=kqkdY-NG0LI&t=636s](https://www.youtube.com/watch?v=kqkdY-NG0LI&t=636s)
+- Slides: [https://zenodo.org/record/7004452](https://zenodo.org/record/7004452)
 
 This talk was given at the State of the Map conference (the global summit for the OSM community) in 2022 in the science/research track. I shared a summary of my MA research, with many more ethnographic excerpts than I was able to bring to the previous iteration. In this talk, I focused primarily on asking the kinds of questions that emerged from my conversations, discussions, and observations over the last 1.5 years. Folk's reactions were so kind!
 

@@ -16,8 +16,8 @@ At the June fireside chat for The Turing Way, a few wonderful folks shared their
 I also gave two versions of a talk that tried to stitch together my experiences more narratively, in a way that might make sense for others (and gives the illusion of linearity as well)! Then again, perhaps the threads I stitched together in retrospect might also still.
 
 ### Talk: "Changing culture through open practices: mapping my journey in open scholarship" (14 September 2022)
-- Slides: https://zenodo.org/record/7077467
-- Recording: https://www.youtube.com/watch?v=VKH8RuSCq4c&t=5s
+- Slides: [https://zenodo.org/record/7077467](https://zenodo.org/record/7077467)
+- Recording: [https://www.youtube.com/watch?v=VKH8RuSCq4c&t=5s](https://www.youtube.com/watch?v=VKH8RuSCq4c&t=5s)
 - I have to admit, seeing this talk again, I feel like I was still so much in the midst of processing so much from the previous months, that it seemed to become a Turing Way talk after a quick zoom through a few choice experiences, though perhaps the connections perhaps weren't as clear. At the time, I feel like I was still learning the language of The Turing Way, and what its implications were for my own experiences.
 
 ### Talk: "From culture to computation: mapping my open research journey" (10 March 2023)
