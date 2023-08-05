@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections on my own journey
+title: reflections on my open journey (so far)
 date: 2023-04-11 23:00:00 +0000
 category: blog
 

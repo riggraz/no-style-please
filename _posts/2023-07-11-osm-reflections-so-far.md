@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections on OpenStreetMap (& AI-Assisted Mapping)
+title: openstreetmap reflections so far
 date: 2023-07-11 23:00:00 +0000
 category: blog
 

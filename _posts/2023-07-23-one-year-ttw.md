@@ -7,3 +7,5 @@ published: false
 
 ---
 # One year with The Turing Way
+
+
