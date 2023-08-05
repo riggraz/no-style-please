@@ -20,11 +20,13 @@ These two sessions - recorded as hour-long discussions with unrecorded 30 minute
 
 ## Talk: "Crisis Maps, Community, and Corporations (an Anthropologist’s perspective)"
 - Link: https://www.youtube.com/watch?v=_0a84F0pdNU&t=351s
+- 
 
 This was given at the Humanitarian OpenStreetMap Summit in 2021 in the form of a talk. It shared some of my initial thoughts around crisis mapping specifically, and citations in that direction. In particular, I focused a bit more on what defines the kinds of crises that become maps, and informational asymmetries within the community.
 
 ## Talk: "Mapping crises, communities and capitalism on OpenStreetMap: situating humanitarian mapping in the (open source) mapping supply chain"
 - Link: https://www.youtube.com/watch?v=kqkdY-NG0LI&t=636s
+- Slides: https://zenodo.org/record/7004452
 
 This talk was given at the State of the Map conference (the global summit for the OSM community) in 2022 in the science/research track. I shared a summary of my MA research, with many more ethnographic excerpts than I was able to bring to the previous iteration. In this talk, I focused primarily on asking the kinds of questions that emerged from my conversations, discussions, and observations over the last 1.5 years. Folk's reactions were so kind!
 
