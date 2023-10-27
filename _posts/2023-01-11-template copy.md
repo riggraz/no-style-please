@@ -6,4 +6,5 @@ category: blog
 published: false
 
 ---
-Template title
+Reflections from graduate school -- 
+
