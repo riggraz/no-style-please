@@ -7,9 +7,9 @@ permalink: /about
 
 # anne lee steele
 
-I'm a researcher based in the United Kingdom. (<a href="https://calendly.com/aleesteele/">Schedule a chat here</a>!)
+I'm a researcher and writer based in the United Kingdom. (<a href="https://calendly.com/aleesteele/">Schedule a chat here</a>!)
 
-Most of what I do aims to understand and support the people &amp; processes behind our digital lives (think: open source infrastructure, extractive industries, and supply chains). I approach most situations as an ethnographer first, and as a community-builder second.
+Most of what I do aims to understand and support the people &amp; processes behind our digital lives (think: open source infrastructure, extractive industries, and supply chains) and the political processes they feed into. I approach most situations as an ethnographer first, and as a community-builder second.
 
 Currently, I am the community manager for <a href="https://the-turing-way.netlify.app/welcome.html">The Turing Way</a>, based at the <a href="https://www.turing.ac.uk/">Alan Turing Institute</a>, where I am stewarding an open source, community-driven resource for reproducible data science. 
 

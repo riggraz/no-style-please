@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reviewing 6 months with The Turing Way project
+title: reviewing 6 months with The Turing Way project
 date: 2022-09-22 23:00:00 +0000
 category: blog
 
