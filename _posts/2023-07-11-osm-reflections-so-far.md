@@ -28,7 +28,7 @@ This was given at the Humanitarian OpenStreetMap Summit in 2021 in the form of a
 - Link: [https://www.youtube.com/watch?v=kqkdY-NG0LI&t=636s](https://www.youtube.com/watch?v=kqkdY-NG0LI&t=636s)
 - Slides: [https://zenodo.org/record/7004452](https://zenodo.org/record/7004452)
 
-This talk was given at the State of the Map conference (the global summit for the OSM community) in 2022 in the science/research track. I shared a summary of my MA research, with many more ethnographic excerpts than I was able to bring to the previous iteration. In this talk, I focused primarily on asking the kinds of questions that emerged from my conversations, discussions, and observations over the last 1.5 years. Folk's reactions were so kind!
+This talk was given at the State of the Map conference (the global summit for the OSM community) in 2022 in the science/research track. I shared a summary of my MA research, with many more ethnographic excerpts than I was able to bring to the previous iteration. In this talk, I focused primarily on asking the kinds of questions that emerged from my conversations, discussions, and observations over the last ~2 years. Folks' reactions were so kind!
 
 ## Thank yous
 - Thank you for the invitation to moderate Arnalie Vicario and Petya Kangalova for the invitation to join the Community Working Group
