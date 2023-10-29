@@ -7,8 +7,11 @@ permalink: /projects
 # featured projects
 
 - <a href="https://mmm.page/internetsupplychains.main">above the clouds and below the sea</a> (2022)
+- the atlas of extractive industries (coming soon) (2022)
 - <a href="https://resource-project.co/">the re:source project</a>
-- the atlas of extractive industries (coming soon)
+- <a href="https://www.supply-chains.us/">supply-chains.us</a> (digital collage, 2021)
+- <a href="https://open-source-social-science.github.io/" class="bio-link">open-source-social-science</a> (2020 - current)
+- "the architecture of good intentions" (design mock-up, 2019)
 
 # featured writing
 
@@ -32,8 +35,6 @@ If you're interested in learning more about works in progress, check out my <a h
 # other
 - <a href="https://res.cloudinary.com/aleesteele/image/upload/v1632865983/Steele-Portfolio_a8unhx.pdf">"i am not an artist"</a> (portfolio zine, 2019)
 - "supply chains are us" - (digital collages, 2021)
-- <a href="https://open-source-social-science.github.io/" class="bio-link">open-source-social-science</a> (open source project, 2020)
-- <a href="https://www.supply-chains.us/">supply-chains.us</a> (digital collage, 2021)
-- "the architecture of good intentions" (design mock-up, 2019)
+
 
 ### you can download my CV <a href="https://res.cloudinary.com/aleesteele/image/upload/v1620909383/Steele_CV_2021.pdf">here</a>.
