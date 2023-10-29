@@ -11,6 +11,7 @@ description: > # description of the site (multiple lines allowed)
 header_pages:
  - index.md
  - about.md
+ - projects.md
  - blog.md
  - contact.md
 
