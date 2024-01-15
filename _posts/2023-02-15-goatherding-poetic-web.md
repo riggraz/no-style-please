@@ -46,11 +46,11 @@ Look up, marvel at the ephemeral beauty, and always remember to live life with y
 
 Today, I'm following up with a couple of links that connect poetry & digital life. Hope you enjoy them with a cup of tea as your working day winds down. 🍵🫖
 
-🌸 https://alt-text-as-poetry.net/ - This project talks about the process of writing alt text (written descriptions of images that are accessible by screen readers) as poetry... a beautiful reframing!
+🌸 [https://alt-text-as-poetry.net/](https://alt-text-as-poetry.net/) - This project talks about the process of writing alt text (written descriptions of images that are accessible by screen readers) as poetry... a beautiful reframing!
 
-🌻 https://chiaski.github.io/poeticweb/ - Can a website be poetic? This workshop has some lovely thought exercises and questions that are fun to peak through. I love the 'world of text' digital wall.
+🌻 [https://chiaski.github.io/poeticweb/](https://chiaski.github.io/poeticweb/) - Can a website be poetic? This workshop has some lovely thought exercises and questions that are fun to peak through. I love the 'world of text' digital wall.
 
-🌼 https://poetictimes.club/ - A poem project that displays random headlines from the NYTimes that you can move around to create your own poem!
+🌼 [https://poetictimes.club/](https://poetictimes.club/) - A poem project that displays random headlines from the NYTimes that you can move around to create your own poem!
 
 Enjoy!
 
