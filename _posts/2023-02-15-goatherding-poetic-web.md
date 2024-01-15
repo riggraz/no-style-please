@@ -29,7 +29,7 @@ _These images were taken from [Anthony Amar's blog here](https://anthonyamar.fr/
 
 --
 
-☁️ For today's little digital tidbit, I'm sharing an online community that a friend introduced me to recently... the Cloud Appreciation Society. So wholesome! Their manifesto is lovely, and perhaps something you can think about as you contemplate the UK's grey skies! ☁️
+☁️ For today's little digital tidbit, I'm sharing an online community that a friend introduced me to recently... the [Cloud Appreciation Society](https://cloudappreciationsociety.org/). So wholesome! Their manifesto is lovely, and perhaps something you can think about as you contemplate the UK's grey skies! ☁️
 
 Adding here for a little morning read. It reads almost like a poem!
 
