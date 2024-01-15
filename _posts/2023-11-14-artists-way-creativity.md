@@ -18,7 +18,7 @@ i also read a lot of things from ['the creative independent'](https://thecreativ
 
 i also listen to podcasts that give me that same expansive sense of space. they usually have a spiritual or storytelling element. ['on being'](https://onbeing.org/series/podcast/) with krista tippett is a classic. i also listen to many science and research-oriented ones, but those are usually for my researcher-intellectual brain, not necessarily my artist one. i've also been thumbing through [rick rubin's 'the creative act'](https://www.goodreads.com/en/book/show/60965426), and listening to his [interviews](https://www.youtube.com/watch?v=QReC6tvrARA). apparently he has a podcast as well, but i haven't listened to that.
 
-sometimes, i also listen to soundscapes from [earth.fm](https://earth.fm/) while working - they tend to be very meditative. i also like the NTS breakfast show with flo, in either my mornings or evenings.
+sometimes, i also listen to soundscapes from [earth.fm](https://earth.fm/) while working - they tend to be very meditative. i also like the [NTS breakfast show with flo](https://www.nts.live/shows/the-breakfast-show-flo), in either my mornings or evenings.
 
 i think physically (during the summer especially), i was in this routine of swimming in ponds, doing yoga, cycling, going to a music series called the proms, and writing/reading constantly that was so good for me. it was a lot of physical and mental movement that made me more aware and present and ultimately, creative.
 
