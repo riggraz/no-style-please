@@ -3,7 +3,6 @@ layout: post
 title: starting the artists way -- practices for nurturing creativity
 date: 2023-11-14 23:00:00 +0000
 category: blog
-published: false
 
 ---
 
