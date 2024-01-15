@@ -1,0 +1,33 @@
+---
+layout: post
+title: Guiding Principles for 2024
+date: 2024-01-05 08:00:00 +0000
+category: blog
+
+---
+_I recently sent this over to a friend - and realised that this might be something since to post here as well!_
+
+--
+
+_“Be patient toward all that is unsolved in your heart and try to love the questions themselves, like locked rooms and like books that are now written in a very foreign tongue. Do not now seek the answers, which cannot be given you because you would not be able to live them. And the point is, to live everything. Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer.”_ (Rainer Maria Rilke).  
+
+Last year was very tumultuous, but it drew me to read and think about many things that have since shaped me in countless ways: like navigating burnout, my relationship to work, management, attention, degrowth, ecosystems, creativity, maintenance, care, quiet. These concepts have probed and challenged my values on a deep level - and are helping me to discern between what I thought I wanted (which takes great unlearning!) from what I actually do want (especially as I plan next steps). Books like Quiet and The Artists Way have really helped with this process. (I’m in my last week of TAW, and it’s been truly life-changing on many levels!)
+
+I chose this quote for my overall guiding theme for the year, because of how much uncertainty I feel there is to navigate. Where will I be, what will I be doing? The answers are as yet unclear. But guided by my internal map, maybe they will be clearer soon. This year, I want to lean more into my intuition rather than intellect alone in 2024, and be patient in the amount of time/space it might take to get there.
+
+Perhaps one of the underlying foundations beneath these habits is the realization that as a provider of a “third space” for many people, and with a job that focuses primarily on operational maintenance, I have found the need to cultivate a third space within myself, that allows for more creativity. It feels like a big switch — especially for someone that wanted it all from a “vocation”, not just a job!
+
+So instead of “goals”, I’m choosing habits, and ways of being. I do have some SMART goals and professional objectives, but that’s not for the blog.
+
+**1. Move more: get out of the head and into the body.**
+I want this year to be a year of movement - not the kind that took me around the world and back this past year - but rather the kind that allows me to find space in myself (wherever I am). Some of my best thinking has happened on long runs, swims, gardening, boxing, hikes, yoga. And sometimes I didn’t have a conscious thought at all (bliss!). I want to cultivate this habit from a place of self-compassion instead of punitive self-discipline, and make sure to move (if only a little!) at least once a day.
+
+**2. Be mindful of my attention - and train the muscle that allows me to sustain it.**
+
+After many years of attempts, I’m finally cultivating a regular, small meditation practice. It is blooming into a much broader sense of self awareness and self-observation (without judgement) that has felt humorous, tragic, distracted, scattered, hyper-focused all at different times. I don’t want to be afraid of the solitude this might require to better tune my muscle of attention, but I’m also careful not to let it turn into self-isolation. 
+
+**3. Embrace a beginner’s mindset, and create more: frequently and earnestly without too much self-criticism.**
+
+I’ve often held myself back from having a truly creative practice (whether it’s writing or art or some mixture of the two) by many bad habits: boundless self-critique, perfectionism, endless planning, self esteem, jealousy, a scarcity mindset. What can combat that by simply moving forward and experimenting?
+
+This feels perhaps the scariest - and riskiest - of the three, because it involves me putting myself out there in ways I haven’t before. But it also may be the one that pushes me forward in ways I can’t predict
