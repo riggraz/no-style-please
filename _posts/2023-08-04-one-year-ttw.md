@@ -40,7 +40,7 @@ Here's roughly what I plan on (and have been) reflecting on:
 - What I've learned (and struggled with) as a Community Manager of The Turing Way
 - What I've learned (and struggled with) about "openness", open science & the open ecosystem
 
-All of the blogs above are retrospective – they aim to add context, coloring, and framing –– I'd ideally also like to write something that is a bit more future-focused as wel. :) 
+All of the blogs above are retrospective – they aim to add context, coloring, and framing –– I'd ideally also like to write something that is a bit more future-focused as well. :) 
 
 ## Thank yous
 It will be very, very hard to review all the people and conversations had over the past year+, and there are many many thank yous to give. So, I'll leave this section to the end of this series, after this act of ['gathering' (as Mindy Seu and Ursula K. Le Guin put it)](https://issue1.shiftspace.pub/on-gathering-mindy-seu) will help to reveal all those I have gathered from!
