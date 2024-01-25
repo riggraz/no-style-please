@@ -7,7 +7,7 @@ permalink: /projects
 ### You can download my CV <a href="https://res.cloudinary.com/aleesteele/image/upload/v1620909383/Steele_CV_2021.pdf">here</a>.
 
 # Select Projects
-* Designed website “Above clouds and below the sea” for Internet Society Fellowship (2022)
+* Designed website <a href="https://aleesteele.mmm.page/">“Above clouds and below the sea”</a> for Internet Society Fellowship (2022)
 * Designed zine (“networks in the wild!”) for international conference, DIY Methods (2022)
 * Designed, coded, and co-presented digital art and multimedia project about international supply chains used for technology, titled supply-chains.us & resource-project.co (2021)
 * Created open source list of resources for research, open-source-social-science.github.io (2021)
