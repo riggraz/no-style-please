@@ -14,8 +14,9 @@ entries:
       - title: music
         entries:          
           - title: choral music
-          - title: show choir
           - title: classical music
+          - title: violin
+          - title: piano
           - title: hip-hop music
           - title: spotify
             url: https://open.spotify.com/user/deniz.a.buldum?si=7cc6469d129544c5
