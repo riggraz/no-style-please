@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How I made this website"
+category: blog
 ---
 # Table of Contents
 - [Tooling](#tooling)
