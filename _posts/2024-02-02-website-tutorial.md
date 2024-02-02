@@ -40,7 +40,7 @@ The first step is to change the `_config.yml` file in the root directory to your
 ### Change menu
 The next step I did was change the menu (home page). This can be done by navigating to `_data` and opening `menu.yml`. The layout is fairly obvious, so just change the examples. More details can be found in the `README` of your theme. 
 ### Add pages and posts
-You can easily add posts (to the `_posts` folder in Markdown. 
+You can easily add posts (to the `_posts` folder in Markdown.) Once you add your posts, the website is complete. 
 
 ___
 {: data-content="footnotes"}
