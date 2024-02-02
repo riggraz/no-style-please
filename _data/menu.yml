@@ -12,12 +12,7 @@ entries:
       - title: ui design
       - title: mathematics
       - title: music
-        entries:          
-          - title: choral music
-          - title: classical music
-          - title: violin
-          - title: piano
-          - title: hip-hop music
+        entries:
           - title: spotify
             url: https://open.spotify.com/user/deniz.a.buldum?si=7cc6469d129544c5
       - title: science olympiad
