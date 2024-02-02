@@ -16,27 +16,22 @@ category: blog
       + [Add pages and posts](#add-pages-and-posts)
 
 # Tooling
-___
 The tools and frameworks used are an important part of developing any site. This is what I did.
 
 ## Jekyll
-___
 Since I wanted to easily build a coherent static site that I could edit without much hassle, I chose to use Jekyll. Jekyll, a static site generator, allows anyone to "transform [their] plain text into static websites and blogs."[^1] Jekyll works the best with blogs and personal websites, so this is a good use case for it.
 ### Theme
 After browsing options, I decided to pick "no-style-please," a fast and minimal theme. This theme includes light, dark, and auto modes, an RSS feed, SEO optimization, very little CSS, and excellent performance. It was developed by [Riccardo Graziosi](https://riggraz.dev) and is used on his own personal website. 
 
 ## GitHub Pages
-___
 GitHub offers their own hosting solution, named GitHub Pages. This allows easy and free hosting using a popular platform. Since I'm a student, I also get other free benefits from GitHub using using their [GitHub Student Developer Pack,](https://education.github.com/pack) including more features on their platform in addition free JetBrains products. 
 # Creation
-___
 After picking the theme and tools to create the website, I used them in development. There are different ways, to do this, but the method I chose allowed me to do it all on the web without touching any local files. I mostly used github.dev for this (to use it, edit a file in your repository and press the period (.) key. 
 ## Step 1: Fork theme
-___
+
 Fork the theme to your own account. Note that if you call this new repository your username, its `README` will show up on your GitHub profile. 
 
 ## Step 2: Customize Theme
-___
 There are a multitude of customizations available to you once you fork your theme. 
 ### Change _config.yml
 The first step is to change the `_config.yml` file in the root directory to your ideal settings. You should change the `title`, `author`, `url`, `baseurl`, `favicon`, and `description`. You can also change other options, but there aren't many. 
