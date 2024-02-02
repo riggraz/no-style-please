@@ -15,6 +15,8 @@ category: blog
       + [Change menu](#change-menu)
       + [Add pages and posts](#add-pages-and-posts)
 
+___
+
 # Tooling
 The tools and frameworks used are an important part of developing any site. This is what I did.
 
