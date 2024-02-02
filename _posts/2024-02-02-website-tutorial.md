@@ -28,6 +28,7 @@ After browsing options, I decided to pick "no-style-please," a fast and minimal 
 
 ## GitHub Pages
 GitHub offers their own hosting solution, named GitHub Pages. This allows easy and free hosting using a popular platform. Since I'm a student, I also get other free benefits from GitHub using using their [GitHub Student Developer Pack,](https://education.github.com/pack) including more features on their platform in addition free JetBrains products. 
+___
 # Creation
 After picking the theme and tools to create the website, I used them in development. There are different ways, to do this, but the method I chose allowed me to do it all on the web without touching any local files. I mostly used github.dev for this (to use it, edit a file in your repository and press the period (.) key. 
 ## Step 1: Fork theme
