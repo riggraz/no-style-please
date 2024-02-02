@@ -26,8 +26,7 @@ html { height: 100%; }
 body {
   color: black;
   font-family: 'YourFontName';
-  src: url('path-to-your-font/YourFontFile.woff2') format('woff2'),
-       url('path-to-your-font/YourFontFile.woff') format('woff');
+  src: url('assets/Newsreader-VariableFont_opsz,wght.ttf') format('ttf'),
 
   font-size: 16px;
   line-height: 1.4;
