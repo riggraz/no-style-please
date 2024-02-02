@@ -15,6 +15,7 @@ entries:
         entries:
           - title: spotify
             url: https://open.spotify.com/user/deniz.a.buldum?si=7cc6469d129544c5
+      - title: science olympiad
 
   - title: all posts
     post_list:
@@ -22,12 +23,17 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-
-  - title: rss
-    url: feed.xml
   
+  - title: links
+    entries:
+      - title: github profile
+        url: https://github.com/dbuldum4
+
   - title: contact
     entries:
       - title: email
         entries:
           - title: deniz.a.buldum@gmail.com
+      - title: discord
+        entries:
+          - title: hzpd
