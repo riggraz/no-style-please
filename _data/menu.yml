@@ -29,9 +29,5 @@ entries:
   - title: contact
     entries:
       - title: email
-      entries:
-        - title: deniz.a.buldum@gmail.com
-    - title: discord
-      entries:
-        - title: hzpd
-
+        entries:
+          - title: deniz.a.buldum@gmail.com
