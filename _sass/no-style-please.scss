@@ -23,6 +23,11 @@ html, body { background: white; }
 
 html { height: 100%; }
 
+@font-face {
+  font-family: 'Newsreader';
+  src: url('assets/Newsreader.ttf') format('ttf'),
+}
+
 body {
   color: black;
   font-family: 'Newsreader';
