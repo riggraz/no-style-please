@@ -16,6 +16,8 @@ entries:
           - title: spotify
             url: https://open.spotify.com/user/deniz.a.buldum?si=7cc6469d129544c5
 
+  - title: contact
+
   - title: all posts
     post_list:
       limit: 5
@@ -26,4 +28,13 @@ entries:
   - title: rss
     url: feed.xml
   
+  - title: contact
+    entries:
+      - title: email
+      entries:
+        - title: deniz.a.buldum@gmail.com
+          url: deniz.a.buldum@gmail.com
+    - title: discord
+      entries:
+        - title: hzpd
 
