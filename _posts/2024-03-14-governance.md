@@ -1,21 +1,25 @@
 ---
 layout: post
 title: formalising governance within the turing way
-date: 2024-01-11 23:00:00 +0000
+date: 2024-03-14 23:00:00 +0000
 category: blog
-published: true
+published: false
 
 ---
 
-_Note: I recently. wrote this decision about formalising working groups for governance with The Turing Way for a former colleague and friend Gracielle Higino's lab meeting at the Computational Biodiversity Science and Services (_BIOS2_). They were going through a similar process, and while I wasn't able to attend the decision, I shared this blog that I've published here as well. I've expanded this blog to account for different stages of governance _ 
+_Note: I recently. wrote this decision about formalising working groups for governance with The Turing Way for a former colleague and friend Gracielle Higino's lab meeting at the Computational Biodiversity Science and Services (_BIOS2_). They were going through a similar process, and while I wasn't able to attend the meeting, I drafted a short summary of the process of creating working groups. In the time since, I've expanded it into this broader blog, expanded to account for the different stages of governance that I've gone through alongside _The Turing Way_ community._ 
 
 # How have we formalised governance within _The Turing Way_?
 
-I thought I’d tell you a little bit about how I've tried to go about forming working groups with The Turing Way project, and formalised work within the project more broadly. I don't want to pretend that this effort came from me alone 
+Talk to anyone in the open source space (or really anyone who has experience with organisational governance, community organising, or X) and they'll all say the same thing: governance is *hard*! 
 
-Hindsight is always 
+I thought I’d tell you a little bit about how I've tried to go about forming working groups with The Turing Way project, and formalised work within the project more broadly. I don't want to pretend that this effort came from me alone  –
 
-Keep in mind that this governance work was done alongside the other operational. The timelines might have been different if there 
+Hindsight is also always 2020. 
+
+Keep in mind that this governance work was done alongside the other operational tasks within the project like hosting Fireside Chats, giving trainings and talks, and more. The timelines might have been different if this were my full-time focus.
+
+
 
 ## Phase 1: Community Research (March 2022 - Sept 2022)
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-07-governance.md",
+                "file": "2024-03-14-governance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-07-governance.md",
+                "file": "2024-03-14-governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-07-governance.md",
+                "file": "2024-03-14-governance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-07-governance.md"
+                "file": "2024-03-14-governance.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac6562825d0cf1d9",
+  "active": "d9614b62ae6ffc0e",
   "lastOpenFiles": [
     "2024-03-02-ten-things-two-years.md",
     "2024-02-24-third-space.md",
     "2024-02-07-science.md",
     "2023-08-04-two-years-ttw.md",
-    "2024-02-07-governance.md",
+    "2024-03-14-governance.md",
     "2023-11-14-artists-way-creativity.md",
     "2024-03-15-crisis.md",
     "2024-01-05-2024-principles.md",
