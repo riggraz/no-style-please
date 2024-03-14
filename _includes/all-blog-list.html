@@ -2,10 +2,10 @@
   <ul>
     {%- for post in site.posts -%}
     <li>
-    <div style="border:thin solid black; padding: 3px;">
+    <div style="border:thin solid black; padding: 5px;">
       {%- assign date_format = "%Y-%m-%d" -%}
       {{ post.date | date: date_format }} <br/>
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2><br/>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
       <p>{{ post.excerpt }}</p>
     </div> 
     </li>
