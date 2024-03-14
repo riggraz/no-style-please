@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "80d6d6c266ab87cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8cd80a93121c41e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac6562825d0cf1d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-14-governance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18401da2b0343bda",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4ef0d48668f5525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9614b62ae6ffc0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3295fbcd3726b73b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30d5437edb69ead2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0198eeaf7b6c6163",
+    "type": "split",
+    "children": [
+      {
+        "id": "a716228de65f8045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56970d2376e54a79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-03-14-governance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b58961312f115f60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-03-14-governance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a3a8392e12aa695",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d97a62dd488dfca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-03-14-governance.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d9614b62ae6ffc0e",
+  "lastOpenFiles": [
+    "2024-03-02-ten-things-two-years.md",
+    "2024-02-24-third-space.md",
+    "2024-02-07-science.md",
+    "2023-08-04-two-years-ttw.md",
+    "2024-03-14-governance.md",
+    "2023-11-14-artists-way-creativity.md",
+    "2024-03-15-crisis.md",
+    "2024-01-05-2024-principles.md",
+    "2023-07-28-reflections-on-burnout.md"
+  ]
+}
