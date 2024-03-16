@@ -1,6 +1,3 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
   - title: info
     entries:
@@ -12,9 +9,9 @@ entries:
 
   - title: posts
     entries: 
-    - title: uniter contributions
-      url: https://uniter.ca/author/gabriel-louer
+      - title: uniter contributions
+        url: https://uniter.ca/author/gabriel-louer
 
   - title: projects
-   entries:
-   - title: tbd...
+    entries:
+      - title: tbd...
