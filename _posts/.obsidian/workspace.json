@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-02-ten-things-two-years.md",
+                "file": "2023-11-14-artists-way-creativity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-02-ten-things-two-years.md",
+                "file": "2023-11-14-artists-way-creativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-02-ten-things-two-years.md",
+                "file": "2023-11-14-artists-way-creativity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-02-ten-things-two-years.md"
+                "file": "2023-11-14-artists-way-creativity.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "ac6562825d0cf1d9",
   "lastOpenFiles": [
-    "2024-01-15-all-conferences.md",
-    "2024-03-15-crisis.md",
-    "2024-03-14-governance.md",
-    "2024-03-02-ten-things-two-years.md",
     "2024-02-24-third-space.md",
     "2024-02-07-science.md",
+    "2024-03-14-governance.md",
+    "2024-03-02-ten-things-two-years.md",
+    "2024-01-05-2024-principles.md",
+    "2023-11-14-artists-way-creativity.md",
+    "2024-01-15-all-conferences.md",
+    "2024-03-15-crisis.md",
     "2025-01-30-all-fellowships-residencies.md",
     "2024-02-19-reflecting-on-conferences.md",
     "2023-05-30-collab-workshop.md",
@@ -162,8 +164,6 @@
     "2024-01-31-third-space.md",
     "2024-02-04-fosdem.md",
     "2023-08-04-two-years-ttw.md",
-    "2023-11-14-artists-way-creativity.md",
-    "2024-01-05-2024-principles.md",
     "2023-07-28-reflections-on-burnout.md"
   ]
 }

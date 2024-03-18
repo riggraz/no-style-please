@@ -3,7 +3,6 @@ layout: post
 title: formalising governance within the turing way
 date: 2024-03-14 23:00:00 +0000
 category: blog
-published: false
 
 ---
 
@@ -11,40 +10,38 @@ _Note: I recently. wrote this decision about formalising working groups for gove
 
 # How have we formalised governance within _The Turing Way_?
 
-Talk to anyone in the open source space (or really anyone who has experience with organisational governance, community organising, or X) and they'll all say the same thing: governance is *hard*! 
+Talk to anyone in the open source space (or really anyone who has experience with organisational governance, community organising, or formalisation more broadly) and they'll all say the same thing: governance is *hard*! 
 
-I thought I’d tell you a little bit about how I've tried to go about forming working groups with The Turing Way project, and formalised work within the project more broadly. I don't want to pretend that this effort came from me alone  –
-
-Hindsight is also always 2020. 
+I thought I’d tell you a little bit about how I've tried to go about forming working groups with The Turing Way project, and formalised work within the project more broadly. I don't want to pretend that this effort came from me alone – it's absolutely been a team effort. However, 
 
 Keep in mind that this governance work was done alongside the other operational tasks within the project like hosting Fireside Chats, giving trainings and talks, and more. The timelines might have been different if this were my full-time focus.
 
-
-
 ## Phase 1: Community Research (March 2022 - Sept 2022)
 
-I joined the project in March 2022, and spent the [first 6 months learning more about the project](https://github.com/the-turing-way/the-turing-way/discussions/2552) which you can read more about there. 
+I joined the project in March 2022, and spent the [first 6 months learning more about the project](https://github.com/the-turing-way/the-turing-way/discussions/2552) in public, which you can read more about there.
 
-This culminated in realising that there were identifiable workstreams within the project that could be formalised into ‘working groups’ to help field support and agency in the growing project (and prevent the [tyranny of structurelessness]()), taking cues from the models of other open source communities (and other forms of social organisation). This research into governance was pretty informal (like this [slide deck of research](https://docs.google.com/presentation/d/1HcKjeikxAAfKDCb5Okh1EqPbabedM3c7xIVuKv1Cqeg/edit#slide=id.p)), and also formal as well (like when [we participated in the Open Life Science programme](https://openlifesci.org/openseeds/ols-5/projects-participants.html))... And it’s been a bumpy road, but a huge learning experience! 
+This culminated in realising that there were identifiable workstreams within _The Turing Way_ that could be formalised into ‘working groups’ to help field support and agency in the growing project (and prevent the [tyranny of structurelessness]()). This came from cues from the models of other open source communities (and other forms of social organisation), such as the Kubernetes or X. This research into governance was pretty informal (like this [slide deck of research](https://docs.google.com/presentation/d/1HcKjeikxAAfKDCb5Okh1EqPbabedM3c7xIVuKv1Cqeg/edit#slide=id.p)), and also formal as well (like when [we participated in the Open Life Science programme](https://openlifesci.org/openseeds/ols-5/projects-participants.html))... And it’s been a bumpy road, but a huge learning experience! 
 
 This research process 
 
 Pluses:
-- Rapid reporting / weekly ritual
-
-
+- **Rapid reporting / weekly ritual**: This weekly ritual was.
+- **Enabling transparency in action**: This 
 
 Delta:
-- Weekly Ritual
-- Burnout
-- Informal Format
+- **Burnout**: While the weekly ritual allowed for me to learn a *lot* about TTW quickly, it also happened at an unsustainable piece. I got pretty burnt out in the autumn, 
+- **Informal Reporting Format**: 
+- 
 
-I'd like to formalise this research into a 'tool kit' that others can use, with sample ecosystem questions, interview questions for key stakeholders and community members, and 
+I'd like to formalise this research into a 'toolkit' that others can use, with sample ecosystem questions, interview questions for key stakeholders and community members, and graphs for 
 
 ## Phase 2: Trialling Community Governance Structures aka Working Groups and Core Team (Sept 2022 - March 2023)
 
-This 
-The following 6 months (Sept 2022 - March 2023) were spent working on supporting the trialing of 4 working groups: Trainers & Mentors, Reviewers & Editors, Infrastructure, and Accessibility. These were done on different timelines. 
+After six months of research, it was time to put theory into practice. The following 6 months (Sept 2022 - March 2023) were spent working on supporting the trialing of 4 working groups: Trainers & Mentors, Reviewers & Editors, Infrastructure, and Accessibility. 
+
+As much as I would like to say that 1+1=2, that 
+
+These were done on different timelines. 
 
 The 'Trainers & Mentors' and 'Reviewers & Editors' 
 
@@ -52,7 +49,9 @@ We also formalised a working group for Translation and Localisation, a sub-commu
 
 ## Phase 3: Supporting & Expanding Community Infrastructure  (March 2023 - Sept 2023)
 
-From March 2023 to September 2023, I started preparing documentation needed to help with this formalisation in a templatable way for other similar groups to form working groups ([you can see a PR I finally made with some of this info here](https://github.com/the-turing-way/the-turing-way/pull/3499)!), and we also moved into a github organisation (from a repository), which has allowed different groups to [have their own spaces/repositories](https://github.com/the-turing-way). This has helped with increased autonomy and increased decentralisation of the project.
+From March 2023 to September 2023, a few changes occurred in our time. Our co-PI, Kirstie Whitaker (alongside Malvika Sharan) returned from maternity leave. We also added a new member to our team, Alexandra Araujo Alvarez, who. 
+
+I started preparing documentation needed to help with this formalisation in a templatable way for other similar groups to form working groups ([you can see a PR I finally made with some of this info here](https://github.com/the-turing-way/the-turing-way/pull/3499)!), and we also moved into a github organisation (from a repository), which has allowed different groups to [have their own spaces/repositories](https://github.com/the-turing-way). This has helped with increased autonomy and increased decentralisation of the project.
 
 Pluses
 
