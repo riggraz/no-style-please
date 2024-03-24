@@ -4,7 +4,7 @@ email: loki.l.perera@gmail.com # email of site's author
 url:  # root address of the site
 baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  welcome to my "knowledge site", at least what I like to call it.
 
 permalink: /:slug.html
 
@@ -17,7 +17,7 @@ theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: True # show blog description in home page
 
 sass:
   style: :compressed
