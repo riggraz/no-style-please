@@ -36,3 +36,7 @@ entries:
   - title: PRO TIP
     entries:
       - title: to edit this menu, edit _data/menu.yml file
+
+  - title: This is a new post, lets see if this works
+    entries:
+      - title: i am just experimenting if you need to know more vist me at loki.l.perera@gmail.com
