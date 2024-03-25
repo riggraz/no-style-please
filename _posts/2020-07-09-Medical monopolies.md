@@ -1,5 +1,6 @@
 ---
-layout: Medical monopolies and the fight for the people's health
+layout: post
+title: Medical monopolies and the fight for the people's health
 category: example
 ---
 
