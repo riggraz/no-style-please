@@ -71,7 +71,7 @@ Now a table:
 
 ## Images
 
-![theme logo] {:.ioda}
+![C:\Users\loki\jekyll_blog\lochana.github.io\Stackars_lilla_Basse!.jpg] {:.ioda}
 
 Logo of *no style, please!* theme[^4]
 
