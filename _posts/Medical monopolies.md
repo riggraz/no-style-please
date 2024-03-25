@@ -13,4 +13,4 @@ category: example
 
 5. Now we take free medical treatment as a prized right. Yet not long ago, medical bills were the biggest cause of bankruptcy, just as still afflicts the Americans with their endless debates over protecting corporate profits.
 
-6.Claim what inefficiencies you like about our public system, but it is proven cheaper than private care. And what use is swift surgery if the fees render you homeless? I'll take a queue over destitution always.
+6. Claim what inefficiencies you like about our public system, but it is proven cheaper than private care. And what use is swift surgery if the fees render you homeless? I'll take a queue over destitution always.
