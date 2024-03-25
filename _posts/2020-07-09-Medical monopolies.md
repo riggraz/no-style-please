@@ -18,9 +18,15 @@ category: example
 
 6. Claim what inefficiencies you like about our public system, but it is proven cheaper than private care. And what use is swift surgery if the fees render you homeless? I'll take a queue over destitution always.
 
----
+let us find out if we can write some code for this:
 
-{: data-content = "footnotes"}
+```
+def monopoly(type:medical):
+   print('welcome to the medical monopoly')
+```   
+
+---
+{: data-content ="footnotes"}
 
 [^1]: this didn't go well at last :)
 
