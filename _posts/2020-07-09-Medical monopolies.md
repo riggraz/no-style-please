@@ -3,6 +3,8 @@ layout: Medical monopolies and the fight for the people's health
 category: example
 ---
 
+### My thread into the inner workings of medical unions
+
 1. Doctors once raged against public insurance, for it would surely cut their profits by giving more treatment at less cost. The greed of the medical trade unions is as old as illness itself.
 
 2. In the past, only the rich could afford a doctor's fees or insurance. The poor relied on charity hospitals and what little aid the churches and Queensland's gambling tax could spare. Public hospitals charged, unless you were utterly destitute.
