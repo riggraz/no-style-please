@@ -19,8 +19,8 @@ a friend recently ask if i could have some kind of subscription form, to make it
 >
   <input type="email" name="email" id="bd-email" style="border:1px; background-color:#ffffff;" placeholder="add your email here" /> 
   <input type="submit" value="Subscribe" style="border:1px; background-color:#ffffff;" />
-</form>
+</form><br/>
 
-enjoy! if you have any questions, suggestions, or reflections of your own, send me an email at [aleesteele@gmail.com](mailto:aleesteele@gmail.com)
+enjoy! if you have any questions, suggestions, or reflections of your own, please feel free to send me an email at [aleesteele@gmail.com](mailto:aleesteele@gmail.com)
 
 {% include all-blog-list.html %}
