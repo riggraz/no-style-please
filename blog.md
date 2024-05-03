@@ -15,14 +15,10 @@ a friend recently recommended that i have some kind of subscription format, to m
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/aleesteele', 'popupwindow')"
   class="embeddable-buttondown-form"
+  style="border:1px; background-color:#ffffff;"
 >
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
-  
+  <input type="email" name="email" id="bd-email" /> 
   <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.email/refer/aleesteele" target="_blank">Powered by Buttondown.</a>
-  </p>
 </form>
 
 enjoy! if you have any questions, suggestions, or reflections of your own, send me an email at [aleesteele@gmail.com](mailto:aleesteele@gmail.com)
