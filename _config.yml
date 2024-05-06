@@ -21,7 +21,7 @@ theme_config:
 
 sass:
   style: :compressed
-
+theme: no-style-please
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
