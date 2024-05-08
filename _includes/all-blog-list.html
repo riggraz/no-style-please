@@ -1,8 +1,8 @@
 {%- if site.posts.size > 0 -%}
   <ul>
     {%- for post in site.posts -%}
-    <li>
-    <div style="border:thin solid black; padding: 5px;">
+    <li style="list-style-type: none;">
+    <div style="border:thin solid black; padding: 5px; ">
       {%- assign date_format = "%Y-%m-%d" -%}
       {{ post.date | date: date_format }}
       <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>

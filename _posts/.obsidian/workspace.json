@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2018-01-11-template.md",
+                "file": "2024-03-20-solidarity-infra.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2018-01-11-template.md",
+                "file": "2024-03-20-solidarity-infra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2018-01-11-template.md",
+                "file": "2024-03-20-solidarity-infra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2018-01-11-template.md"
+                "file": "2024-03-20-solidarity-infra.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "afff6082828a7b22",
   "lastOpenFiles": [
+    "2018-01-11-template.md",
     "2024-03-20-solidarity-infra.md",
     "2020-11-25-okf.md",
     "2021-01-17-open-thinking-open-writing.md",
@@ -169,7 +170,6 @@
     "2024-02-24-third-space.md",
     "2024-03-02-ten-things-two-years.md",
     "2024-03-15-crisis.md",
-    "2018-01-11-template.md",
     "Untitled.md",
     "2024-01-15-all-conferences.md",
     "2024-03-14-governance.md",
