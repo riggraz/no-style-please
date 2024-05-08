@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-20-solidarity-infra.md",
+                "file": "2018-01-11-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-20-solidarity-infra.md",
+                "file": "2018-01-11-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-20-solidarity-infra.md",
+                "file": "2018-01-11-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-20-solidarity-infra.md"
+                "file": "2018-01-11-template.md"
               }
             }
           }
@@ -161,11 +161,11 @@
   },
   "active": "afff6082828a7b22",
   "lastOpenFiles": [
+    "2024-03-20-solidarity-infra.md",
     "2020-11-25-okf.md",
     "2021-01-17-open-thinking-open-writing.md",
     "2020-12-03-the-open-movement-and-its-discontents.md",
     "2021-03-28-supply-chains-us.md",
-    "2024-03-20-solidarity-infra.md",
     "2024-02-24-third-space.md",
     "2024-03-02-ten-things-two-years.md",
     "2024-03-15-crisis.md",
