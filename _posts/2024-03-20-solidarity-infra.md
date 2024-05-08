@@ -1,7 +1,7 @@
 ---
 layout: post
 title: solidarity infrastructures blog
-date: 2018-01-11 23:00:00 +0000
+date: 2024-03-20 23:00:00 +0000
 category: blog
 published: true
 ---
