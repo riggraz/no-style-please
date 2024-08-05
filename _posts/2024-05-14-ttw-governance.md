@@ -1,10 +1,9 @@
 ---
 layout: post
-title: formalising governance (a two year review)
-date: 2024-03-14 23:00:00 +0000
+title: formalising the turing way's governance (a two year review)
+date: 2024-05-14 23:00:00 +0000
 category: blog
-published: false
-
+published: true
 ---
 
 _Note: I recently wrote this decision about formalising working groups for governance with The Turing Way for a former colleague and friend Gracielle Higino's lab meeting at the Computational Biodiversity Science and Services (_BIOS2_). They were going through a similar process, and while I wasn't able to attend the meeting, I drafted a short summary of the process of creating working groups. In the time since, I've expanded it into this broader blog, expanded to account for the different stages of governance that I've gone through alongside _The Turing Way_ community._ 
@@ -78,18 +77,24 @@ From September to December 2023, we were conceptualising and planning our 10th B
 This was a testing ground for another working group, this time oriented around this community event (like a planning committee!). We invited different community members and used this space to trial learnings from the previous working groups, and cross-community collaboration.
 
 Pluses:
-- New community reporting structure (community forum)
+- New community reporting structure emerged (community forum)
+- Book Dash Working Group-led event (our 10th Book Dash!) was a success!
+
+Deltas:
+- 
+
+
+## Phase 5: Maintaining and Reporting Community Structures and Reporting (February 2024 - Ongoing)
+
+Since February 2024, we've been in the process of maintaining the structures we currently have within the community. 
+
+We've 
+
+Pluses:
+- New community reporting structure emerged (community forum)
 - 
 
 Deltas:
 - 
 
-We've also gone through some changes of staff during this time: 
-
-## Phase 5: Maintaining Community Structures and Reporting (February 2024 - Ongoing)
-
-Since February 2024, we've been in the process of maintaining the structures we currently have within the community, focuses on 
-
-We've gone through a couple of changes in sta
-
-We've also had a few evolutions in staff since
+We've gone through a couple of changes in staff since then. Alex moved to a new role in an aligned project, and Aoife joined for a temporary secondment with _The Turing Way_
