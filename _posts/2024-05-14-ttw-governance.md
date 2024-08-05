@@ -12,11 +12,13 @@ _Note: I recently wrote this decision about formalising working groups for gover
 
 Talk to anyone in the open source space (or really anyone who has experience with organisational governance, community organising, or  management) and they'll all say the same thing: governance is *hard*! 
 
-I thought I’d tell you a little bit about how I've tried to go about forming working groups with The Turing Way project, and formalised work within the project more broadly. I don't want to pretend that this effort came from me alone  – it absolutely was a team effort!
+I thought I’d tell you a little bit about how I've tried to go about forming working groups with The Turing Way project, and formalised work within the project more broadly. I don't want to pretend that this effort came from me alone  – it absolutely was a team effort! 
 
-Hindsight is also always 2020. 
+You'll notice that there's a lot of focus on working groups in this summary. That's not to say that our governance has translated exclusively into working groups, it's simply one of the most visible outcomes of our governance work within the community, along with other structures. Under each stage, I've drawn from the ["pluses and deltas"](https://the-turing-way.netlify.app/community-handbook/templates/template-bookdash-feedback#ch-template-bookdash-feedback) reflection format we tend to use for Book Dash: aka positive learnings/outcomes as well as things I would change in retrospect.
 
 Keep in mind that this governance work was done alongside the other operational tasks within the project like hosting Fireside Chats (monthly in 2022, bi-monthly in 2023, quarterly in 2024), giving trainings and talks, maintaining the existing repository, and institution, collaborating with internal teams at the Turing (the community management and skills teams in particular), and more. The timelines might have been different if this were my full-time focus.
+
+Finally, each of these stages weren't explicitly planned, as we've very much tried to [move at the speed of trust](https://www.rootedstrategy.com/blogposts/4w6myxde5a15j0zrtybcgf3a1mbktk) within the community, adjusting to needs as they emerged. Hindsight is also always 2020. 
 
 ## Phase 1: Community Research (March 2022 - Sept 2022)
 

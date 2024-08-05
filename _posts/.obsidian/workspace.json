@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd7abb45b23ddc40",
+        "id": "09560c22366c8633",
         "type": "tabs",
         "children": [
           {
-            "id": "89016818ea4a845f",
+            "id": "32bc207ee0fe1f62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,19 +154,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89016818ea4a845f",
+  "active": "32bc207ee0fe1f62",
   "lastOpenFiles": [
-    "2024-05-14-ttw-governance.md",
     "2024-08-10-ten-things-two-years.md",
-    "2024-03-15-crisis.md",
+    "2024-07-15-art-jesters-privilege.md",
     "2024-06-11-arena.md",
+    "2024-05-14-ttw-governance.md",
+    "2024-02-07-science-technology.md",
+    "2024-03-14-governance.md",
+    "2024-03-02-ten-things-two-years.md",
+    "2024-02-07-science.md",
     "2023-08-04-two-years-ttw.md",
+    "2024-03-15-crisis.md",
     "2023-11-14-artists-way-creativity.md",
     "2024-01-05-2024-principles.md",
     "2024-02-24-third-space.md",
     "2024-03-20-solidarity-infra.md",
-    "2024-07-15-art-jesters-privilege.md",
-    "2024-02-07-science-technology.md",
     "2018-01-11-template.md",
     "2023-07-28-reflections-on-burnout.md",
     "2023-07-11-osm-reflections-so-far.md",
@@ -178,9 +181,6 @@
     "2021-01-17-open-thinking-open-writing.md",
     "2020-12-03-the-open-movement-and-its-discontents.md",
     "2021-03-28-supply-chains-us.md",
-    "Untitled.md",
-    "2024-01-15-all-conferences.md",
-    "2025-01-30-all-fellowships-residencies.md",
-    "2024-02-19-reflecting-on-conferences.md"
+    "Untitled.md"
   ]
 }
