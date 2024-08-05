@@ -24,11 +24,10 @@ I joined the project in March 2022, and spent the [first 6 months learning more 
 
 This culminated in realising that there were identifiable workstreams within the project that could be formalised into ‘working groups’ to help field support and agency in the growing project (and prevent the [tyranny of structurelessness]()), taking cues from the models of other open source communities (and other forms of social organisation). This research into governance was pretty informal (like this [slide deck of research](https://docs.google.com/presentation/d/1HcKjeikxAAfKDCb5Okh1EqPbabedM3c7xIVuKv1Cqeg/edit#slide=id.p)), and also formal as well (like when [we participated in the Open Life Science programme](https://openlifesci.org/openseeds/ols-5/projects-participants.html))... And it’s been a bumpy road, but a huge learning experience! 
 
-Pluses:
+#### Pluses:
 - Rapid reporting through weekly ritual
 - Bottoms-up observation of community needs
-
-Delta:
+#### Delta:
 - Format for reporting was informal  
 - Frequency and length of reporting lead to burnout
 
@@ -44,11 +43,10 @@ We also formalised a working group for Translation and Localisation, a sub-commu
 
 For groups meeting for the first time, we helped to set up their meeting infrastructure: aims, project ideas, meeting notes, and other bits and bobs. At times we gave over the reins too early (and they felt they had no support or guidance for their work), and with others, we’ve held on to the reins perhaps a bit too tightly. 
 
-Pluses:
+#### Pluses:
 - Quickly established groups
 - Working Group worked as organising structure
-
-Delta:
+#### Delta:
 - Support was spread too thin for new groups
 - No rapid process to test feedback or iterate 
 
@@ -60,11 +58,11 @@ From March 2023 to September 2023, I started preparing documentation needed to h
 
 Lead by the Infrastructure Working Group, we moved into a github organisation (from a repository), which has allowed different groups to [have their own spaces/repositories](https://github.com/the-turing-way) . This has helped with increased autonomy and increased decentralisation of the project.
 
-Pluses:
+#### Pluses:
 - Met growing need for expansion community
 - Increased autonomy for community leadership (especially working groups)
 
-Delta:
+#### Delta:
 - Maintenance responsibilities increased overall
 - Decision-making process for splitting original repository not established
 
@@ -76,11 +74,11 @@ From September to December 2023, we were conceptualising and planning our 10th B
 
 This was a testing ground for another working group, this time oriented around this community event (like a planning committee!). We invited different community members and used this space to trial learnings from the previous working groups, and cross-community collaboration.
 
-Pluses:
+#### Pluses:
 - New community reporting structure emerged (community forum)
 - Book Dash Working Group-led event (our 10th Book Dash!) was a success!
 
-Deltas:
+#### Deltas:
 - 
 
 
