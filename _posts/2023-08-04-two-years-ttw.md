@@ -5,7 +5,6 @@ date: 2023-08-04 23:00:00 +0000
 category: blog
 
 ---
-
 Wow, my year-long mark with The Turing Way has come and gone. It's hard to believe that it's already been more than a year (actually perhaps closer to two)!
 
 For those reading this blog for the first time, I joined the Alan Turing Institute last year to become Community Manager of an open source project called [The Turing Way](https://the-turing-way.netlify.app/). This followed a few years of studying open source communities as a scholar (in particular, the OpenStreetmap ecosystem), and a few fellowships & volunteer programs on open knowledge and OSINT journalism. 
@@ -41,7 +40,6 @@ Here's roughly what I plan on (and have been) reflecting on:
 - Developing governance and the steps required
 - General reflections on "openness" in different spaces
 - Working in 'science' vs working in 'technology' (and other supposed 'binaries')
-- 
 
 All of the blogs above will be retrospective – they aim to add context, coloring, and framing –– I'd ideally also like to write something that is a bit more future-focused as well.
 
