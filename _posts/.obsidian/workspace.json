@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b8cd80a93121c41e",
+        "id": "cd7abb45b23ddc40",
         "type": "tabs",
         "children": [
           {
-            "id": "ac6562825d0cf1d9",
+            "id": "89016818ea4a845f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2018-01-11-template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afff6082828a7b22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-20-solidarity-infra.md",
+                "file": "2024-03-14-governance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "20f45942f48f2769",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-20-solidarity-infra.md",
+                "file": "2024-03-14-governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-20-solidarity-infra.md",
+                "file": "2024-03-14-governance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-20-solidarity-infra.md"
+                "file": "2024-03-14-governance.md"
               }
             }
           }
@@ -159,31 +154,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afff6082828a7b22",
+  "active": "89016818ea4a845f",
   "lastOpenFiles": [
-    "2018-01-11-template.md",
+    "2024-03-15-crisis.md",
+    "2024-06-11-arena.md",
+    "2023-08-04-two-years-ttw.md",
+    "2023-11-14-artists-way-creativity.md",
+    "2024-01-05-2024-principles.md",
+    "2024-02-24-third-space.md",
+    "2024-03-02-ten-things-two-years.md",
+    "2024-03-14-governance.md",
     "2024-03-20-solidarity-infra.md",
+    "2024-07-15-art-jesters-privilege.md",
+    "2024-02-07-science-technology.md",
+    "2018-01-11-template.md",
+    "2023-07-28-reflections-on-burnout.md",
+    "2023-07-11-osm-reflections-so-far.md",
+    "2023-03-03-omnivorous-analysis.md",
+    "2023-02-15-goatherding-poetic-web.md",
+    "2022-03-13-photos-from.md",
+    "2021-10-09-the-re-source-project.md",
     "2020-11-25-okf.md",
     "2021-01-17-open-thinking-open-writing.md",
     "2020-12-03-the-open-movement-and-its-discontents.md",
     "2021-03-28-supply-chains-us.md",
-    "2024-02-24-third-space.md",
-    "2024-03-02-ten-things-two-years.md",
-    "2024-03-15-crisis.md",
     "Untitled.md",
     "2024-01-15-all-conferences.md",
-    "2024-03-14-governance.md",
-    "2024-02-07-science.md",
     "2025-01-30-all-fellowships-residencies.md",
-    "2024-02-19-reflecting-on-conferences.md",
-    "2023-05-30-collab-workshop.md",
-    "2019-08-15-ann-douglas.md",
-    "2024-02-07-governance.md",
-    "2024-01-31-third-space.md",
-    "2024-02-04-fosdem.md",
-    "2023-08-04-two-years-ttw.md",
-    "2023-11-14-artists-way-creativity.md",
-    "2024-01-05-2024-principles.md",
-    "2023-07-28-reflections-on-burnout.md"
+    "2024-02-19-reflecting-on-conferences.md"
   ]
 }

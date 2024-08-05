@@ -10,24 +10,6 @@ published: false
 _Note: Back in August of last year, I wrote a blog that aimed to collect (or at least jumpstart) some personal reflections about Community Management, a year on in my role with The Turing Way. The expectation around that time is that I woudl be able to write a blog every week, mimi. Clearly, that. While the_
 
 
-## The responsibility of the third space
+# Science, Technology and the Societies (Cultures) they create 
 
-Over the
-
-Open source has always blurred the line between the two. 
-
-I've also gone through periods of
-
-### What is a third space? 
-
-Third spaces are very different from first and second spaces, 
-
-For many people, 
-
-For 
-
-### Facilitating a third space is not the same as facilitating a first or second one
-
-For many folks in their.
-
-The 
+cientic research is not the same as technological development – their cultures, norms, and practices are different
