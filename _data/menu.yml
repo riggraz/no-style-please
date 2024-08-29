@@ -4,7 +4,7 @@
 entries:
   - title: info
     entries:
-      - title: freshman at Solon High School
+      - title: sophomore at Solon High School
 
   - title: interests
     entries:
@@ -12,9 +12,6 @@ entries:
       - title: ui design
       - title: mathematics
       - title: music
-        entries:
-          - title: spotify
-            url: https://open.spotify.com/user/deniz.a.buldum?si=7cc6469d129544c5
       - title: science olympiad
       - title: photography
       - title: video editing
@@ -32,11 +29,12 @@ entries:
     entries:
       - title: github profile
         url: https://github.com/dbuldum4
-      - title: instagram
-        url: https://instagram.com/denizbuldum_
 
   - title: contact
     entries:
       - title: email
         entries:
-          - title: deniz.a.buldum@gmail.com
+          - title: denizbuldum27@solonschools.net
+            url: mailto:denizbuldum27@solonschools.net
+          - title: dbuldum@kent.edu
+            url: mailto:dbuldum@kent.edu
