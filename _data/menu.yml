@@ -2,36 +2,36 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: About me
     entries:
-      - title: sophomore at Solon High School
+      - title: Sophomore at Solon High School
 
-  - title: interests
+  - title: Current interests
     entries:
-      - title: computer science
-      - title: machine learning
-      - title: computer engineering
-      - title: ui design
-      - title: mathematics
-      - title: music
-      - title: physics
-      - title: history
+      - title: Computer science
+      - title: Machine learning
+      - title: Computer engineering
+      - title: UI design
+      - title: Mathematics
+      - title: Music
+      - title: Physics
+      - title: History
 
-  - title: all posts
+  - title: Blog posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
   
-  - title: links
+  - title: Links
     entries:
       - title: github profile
         url: https://github.com/dbuldum4
 
-  - title: contact
+  - title: Contact
     entries:
-      - title: email
+      - title: Email
         entries:
           - title: denizbuldum27@solonschools.net
             url: mailto:denizbuldum27@solonschools.net
