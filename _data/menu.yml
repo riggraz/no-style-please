@@ -25,9 +25,9 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
   
-  - title: Links
+  - title: "Where you can find me:"
     entries:
-      - title: github profile
+      - title: "GitHub":
         url: https://github.com/dbuldum4
 
   - title: "Feel free to contact me at:"
