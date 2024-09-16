@@ -2,37 +2,39 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: "About me:"
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Sophomore at Solon High School
 
-  - title: all posts
+  - title: "My current interests include:"
+    entries:
+      - title: Computer science
+      - title: Machine learning
+      - title: Computer engineering
+      - title: UI design
+      - title: Mathematics
+      - title: Competitive programming
+      - title: Music
+      - title: Physics
+      - title: History
+
+  - title: "Here are some of my thoughts and writings:"
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
   
-  - title: another list
+  - title: "Where you can find me:"
     entries:
-      - title: with subitems
+      - title: "GitHub"
+        url: https://github.com/dbuldum4
+
+  - title: "Feel free to contact me at:"
+    entries:
+      - title: "Email:"
         entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+          - title: denizbuldum27@solonschools.net
+            url: mailto:denizbuldum27@solonschools.net
+          - title: dbuldum@kent.edu
+            url: mailto:dbuldum@kent.edu
