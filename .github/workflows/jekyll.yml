@@ -1,0 +1,29 @@
+name: Build Jekyll Site
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Mark /github/workspace as safe
+      run: git config --global --add safe.directory /github/workspace
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.2'
+        bundler-cache: true
+
+    - name: Install dependencies
+      run: bundle install
+
+    - name: Build site
+      run: bundle exec jekyll build
