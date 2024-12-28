@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "no-style-please"
-  spec.version       = "0.4.7"
+  spec.version       = "0.4.8"
   spec.authors       = ["Riccardo Graziosi"]
   spec.email         = ["riccardo.graziosi97@gmail.com"]
 
@@ -12,8 +12,8 @@ Gem::Specification.new do |spec|
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
 
-  spec.add_runtime_dependency "jekyll", "~> 3.9.0"
-  spec.add_runtime_dependency "jekyll-feed", "~> 0.15.1"
+  spec.add_runtime_dependency "jekyll", "~> 3.10.0"
+  spec.add_runtime_dependency "jekyll-feed", "~> 0.17.0"
   spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.8.0"
 
 end
