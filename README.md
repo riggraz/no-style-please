@@ -94,6 +94,16 @@ The `index.md` page should use layout `home`, which is the layout that displays 
 
 Another thing you can do to customize the index page is show the description of your blog between the title and the menu. To do this, just edit `_config.yml` and change `theme_config.show_description` to `true`.
 
+### Enabling Google Analytics
+
+To enable Google Analytics, add the following lines to your Jekyll site:
+
+```yaml
+  google_analytics: G-XXXXXXXX
+```
+
+Google Analytics will only appear in production, i.e., `JEKYLL_ENV=production`
+
 ### Pro tips
 
 #### Dark mode for images
