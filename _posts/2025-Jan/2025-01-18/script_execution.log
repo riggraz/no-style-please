@@ -1,0 +1,136 @@
+[0;34m[2025-01-18 09:50:01] Starting script execution sequence[0m
+[0;34m[2025-01-18 09:50:01] Starting execution of 0content_checker.py[0m
+[0;32m[2025-01-18 09:50:01] Successfully completed 0content_checker.py[0m
+[0;34m[2025-01-18 09:50:01] Starting execution of 0remove_all_citation.py[0m
+[0;32m[2025-01-18 09:50:01] Successfully completed 0remove_all_citation.py[0m
+[0;34m[2025-01-18 09:50:01] Starting execution of 0add_date_title_toMd.py[0m
+[0;32m[2025-01-18 09:50:01] Successfully completed 0add_date_title_toMd.py[0m
+[0;34m[2025-01-18 09:50:01] Starting execution of 0clean_folder.py[0m
+[0;32m[2025-01-18 09:50:01] Successfully completed 0clean_folder.py[0m
+[0;32m[2025-01-18 09:50:01] All scripts completed successfully[0m
+[0;34m[2025-01-18 12:24:26] Starting script execution sequence[0m
+[0;34m[2025-01-18 12:24:26] Starting execution of 0content_checker.py[0m
+[0;32m[2025-01-18 12:24:26] Successfully completed 0content_checker.py[0m
+[0;34m[2025-01-18 12:24:26] Starting execution of 0remove_all_citation.py[0m
+[0;32m[2025-01-18 12:24:26] Successfully completed 0remove_all_citation.py[0m
+[0;34m[2025-01-18 12:24:26] Starting execution of 0add_date_title_toMd.py[0m
+[0;32m[2025-01-18 12:24:26] Successfully completed 0add_date_title_toMd.py[0m
+[0;34m[2025-01-18 12:24:26] Starting execution of 0clean_folder.py[0m
+[0;32m[2025-01-18 12:24:26] Successfully completed 0clean_folder.py[0m
+[0;32m[2025-01-18 12:24:26] All scripts completed successfully[0m
+[0;34m[2025-01-18 12:34:46] Starting script execution sequence[0m
+[0;34m[2025-01-18 12:34:46] Starting execution of 0content_checker.py[0m
+[0;32m[2025-01-18 12:34:46] Successfully completed 0content_checker.py[0m
+[0;34m[2025-01-18 12:34:46] Starting execution of 0remove_all_citation.py[0m
+[0;32m[2025-01-18 12:34:46] Successfully completed 0remove_all_citation.py[0m
+[0;34m[2025-01-18 12:34:46] Starting execution of 0add_date_title_toMd.py[0m
+[0;32m[2025-01-18 12:34:46] Successfully completed 0add_date_title_toMd.py[0m
+[0;34m[2025-01-18 12:34:46] Starting execution of 0clean_folder.py[0m
+[0;32m[2025-01-18 12:34:46] Successfully completed 0clean_folder.py[0m
+[0;32m[2025-01-18 12:34:46] All scripts completed successfully[0m
+[0;34m[2025-01-18 12:57:58] Starting script execution sequence[0m
+[0;34m[2025-01-18 12:57:58] Starting execution of 0content_checker.py[0m
+[0;32m[2025-01-18 12:57:58] Successfully completed 0content_checker.py[0m
+[0;34m[2025-01-18 12:57:58] Starting execution of 0remove_all_citation.py[0m
+[0;32m[2025-01-18 12:57:58] Successfully completed 0remove_all_citation.py[0m
+[0;34m[2025-01-18 12:57:58] Starting execution of 0add_date_title_toMd.py[0m
+[0;32m[2025-01-18 12:57:58] Successfully completed 0add_date_title_toMd.py[0m
+[0;34m[2025-01-18 12:57:58] Starting execution of 0clean_folder.py[0m
+[0;32m[2025-01-18 12:57:58] Successfully completed 0clean_folder.py[0m
+[0;32m[2025-01-18 12:57:58] All scripts completed successfully[0m
+[0;34m[2025-01-18 12:58:09] Starting script execution sequence[0m
+[0;34m[2025-01-18 12:58:09] Starting execution of 0content_checker.py[0m
+[0;32m[2025-01-18 12:58:09] Successfully completed 0content_checker.py[0m
+[0;34m[2025-01-18 12:58:09] Starting execution of 0remove_all_citation.py[0m
+[0;32m[2025-01-18 12:58:09] Successfully completed 0remove_all_citation.py[0m
+[0;34m[2025-01-18 12:58:09] Starting execution of 0add_date_title_toMd.py[0m
+[0;32m[2025-01-18 12:58:09] Successfully completed 0add_date_title_toMd.py[0m
+[0;34m[2025-01-18 12:58:09] Starting execution of 0clean_folder.py[0m
+[0;31m[2025-01-18 12:58:09] ERROR: 0clean_folder.py failed with exit code 1[0m
+[0;31m[2025-01-18 12:58:09] Execution sequence failed at 0clean_folder.py[0m
+[0;34m[2025-01-18 12:58:27] Starting script execution sequence[0m
+[0;34m[2025-01-18 12:58:27] Starting execution of 0content_checker.py[0m
+[0;32m[2025-01-18 12:58:27] Successfully completed 0content_checker.py[0m
+[0;34m[2025-01-18 12:58:27] Starting execution of 0remove_all_citation.py[0m
+[0;32m[2025-01-18 12:58:27] Successfully completed 0remove_all_citation.py[0m
+[0;34m[2025-01-18 12:58:27] Starting execution of 0add_date_title_toMd.py[0m
+[0;32m[2025-01-18 12:58:27] Successfully completed 0add_date_title_toMd.py[0m
+[0;34m[2025-01-18 12:58:27] Starting execution of 0clean_folder.py[0m
+[0;31m[2025-01-18 12:58:27] ERROR: 0clean_folder.py failed with exit code 1[0m
+[0;31m[2025-01-18 12:58:27] Execution sequence failed at 0clean_folder.py[0m
+[0;34m[2025-01-18 12:58:38] Starting script execution sequence[0m
+[0;34m[2025-01-18 12:58:38] Starting execution of 0content_checker.py[0m
+[0;32m[2025-01-18 12:58:38] Successfully completed 0content_checker.py[0m
+[0;34m[2025-01-18 12:58:38] Starting execution of 0remove_all_citation.py[0m
+[0;32m[2025-01-18 12:58:38] Successfully completed 0remove_all_citation.py[0m
+[0;34m[2025-01-18 12:58:38] Starting execution of 0add_date_title_toMd.py[0m
+[0;32m[2025-01-18 12:58:38] Successfully completed 0add_date_title_toMd.py[0m
+[0;34m[2025-01-18 12:58:38] Starting execution of 0clean_folder.py[0m
+[0;31m[2025-01-18 12:58:38] ERROR: 0clean_folder.py failed with exit code 1[0m
+[0;31m[2025-01-18 12:58:38] Execution sequence failed at 0clean_folder.py[0m
+[0;34m[2025-01-18 12:58:48] Starting script execution sequence[0m
+[0;34m[2025-01-18 12:58:48] Starting execution of 0content_checker.py[0m
+[0;32m[2025-01-18 12:58:48] Successfully completed 0content_checker.py[0m
+[0;34m[2025-01-18 12:58:48] Starting execution of 0remove_all_citation.py[0m
+[0;32m[2025-01-18 12:58:48] Successfully completed 0remove_all_citation.py[0m
+[0;34m[2025-01-18 12:58:48] Starting execution of 0add_date_title_toMd.py[0m
+[0;32m[2025-01-18 12:58:48] Successfully completed 0add_date_title_toMd.py[0m
+[0;34m[2025-01-18 12:58:48] Starting execution of 0clean_folder.py[0m
+[0;31m[2025-01-18 12:58:48] ERROR: 0clean_folder.py failed with exit code 1[0m
+[0;31m[2025-01-18 12:58:48] Execution sequence failed at 0clean_folder.py[0m
+[0;34m[2025-01-18 12:58:59] Starting script execution sequence[0m
+[0;34m[2025-01-18 12:58:59] Starting execution of 0content_checker.py[0m
+[0;32m[2025-01-18 12:58:59] Successfully completed 0content_checker.py[0m
+[0;34m[2025-01-18 12:58:59] Starting execution of 0remove_all_citation.py[0m
+[0;32m[2025-01-18 12:58:59] Successfully completed 0remove_all_citation.py[0m
+[0;34m[2025-01-18 12:58:59] Starting execution of 0add_date_title_toMd.py[0m
+[0;32m[2025-01-18 12:58:59] Successfully completed 0add_date_title_toMd.py[0m
+[0;34m[2025-01-18 12:58:59] Starting execution of 0clean_folder.py[0m
+[0;31m[2025-01-18 12:58:59] ERROR: 0clean_folder.py failed with exit code 1[0m
+[0;31m[2025-01-18 12:58:59] Execution sequence failed at 0clean_folder.py[0m
+[0;34m[2025-01-18 12:59:10] Starting script execution sequence[0m
+[0;34m[2025-01-18 12:59:10] Starting execution of 0content_checker.py[0m
+[0;32m[2025-01-18 12:59:10] Successfully completed 0content_checker.py[0m
+[0;34m[2025-01-18 12:59:10] Starting execution of 0remove_all_citation.py[0m
+[0;32m[2025-01-18 12:59:10] Successfully completed 0remove_all_citation.py[0m
+[0;34m[2025-01-18 12:59:10] Starting execution of 0add_date_title_toMd.py[0m
+[0;32m[2025-01-18 12:59:10] Successfully completed 0add_date_title_toMd.py[0m
+[0;34m[2025-01-18 12:59:10] Starting execution of 0clean_folder.py[0m
+[0;31m[2025-01-18 12:59:10] ERROR: 0clean_folder.py failed with exit code 1[0m
+[0;31m[2025-01-18 12:59:10] Execution sequence failed at 0clean_folder.py[0m
+[0;34m[2025-01-18 14:17:55] Starting script execution sequence[0m
+[0;34m[2025-01-18 14:17:55] Starting execution of 0content_checker.py[0m
+[0;32m[2025-01-18 14:17:55] Successfully completed 0content_checker.py[0m
+[0;34m[2025-01-18 14:17:55] Starting execution of 0remove_all_citation.py[0m
+[0;32m[2025-01-18 14:17:55] Successfully completed 0remove_all_citation.py[0m
+[0;34m[2025-01-18 14:17:55] Starting execution of 0add_date_title_toMd.py[0m
+[0;32m[2025-01-18 14:17:55] Successfully completed 0add_date_title_toMd.py[0m
+[0;34m[2025-01-18 14:17:55] Starting execution of 0clean_folder.py[0m
+[0;32m[2025-01-18 14:17:55] Successfully completed 0clean_folder.py[0m
+[0;32m[2025-01-18 14:17:55] All scripts completed successfully[0m
+[0;34m[2025-01-18 14:48:49] Starting script execution sequence[0m
+[0;34m[2025-01-18 14:48:49] Starting execution of 0delete_second_colons.py[0m
+[0;32m[2025-01-18 14:48:49] Successfully completed 0delete_second_colons.py[0m
+[0;34m[2025-01-18 14:48:49] Starting execution of 0move_title_description.py[0m
+[0;32m[2025-01-18 14:48:49] Successfully completed 0move_title_description.py[0m
+[0;34m[2025-01-18 14:48:49] Starting execution of 0slug.py[0m
+[0;32m[2025-01-18 14:48:49] Successfully completed 0slug.py[0m
+[0;34m[2025-01-18 14:48:49] Starting execution of 0remove_all_citation.py.py[0m
+[0;31m[2025-01-18 14:48:49] ERROR: 0remove_all_citation.py.py not found![0m
+[0;31m[2025-01-18 14:48:49] Execution sequence failed at 0remove_all_citation.py.py[0m
+[0;34m[2025-01-18 14:50:30] Starting script execution sequence[0m
+[0;34m[2025-01-18 14:50:30] Starting execution of 0delete_second_colons.py[0m
+[0;32m[2025-01-18 14:50:30] Successfully completed 0delete_second_colons.py[0m
+[0;34m[2025-01-18 14:50:30] Starting execution of 0move_title_description.py[0m
+[0;32m[2025-01-18 14:50:30] Successfully completed 0move_title_description.py[0m
+[0;34m[2025-01-18 14:50:30] Starting execution of 0slug.py[0m
+[0;32m[2025-01-18 14:50:30] Successfully completed 0slug.py[0m
+[0;34m[2025-01-18 14:50:30] Starting execution of 0remove_all_citation.py[0m
+[0;32m[2025-01-18 14:50:30] Successfully completed 0remove_all_citation.py[0m
+[0;34m[2025-01-18 14:50:30] Starting execution of 0content_checker.py[0m
+[0;32m[2025-01-18 14:50:30] Successfully completed 0content_checker.py[0m
+[0;34m[2025-01-18 14:50:30] Starting execution of 0add_date_title_toMd.py[0m
+[0;32m[2025-01-18 14:50:30] Successfully completed 0add_date_title_toMd.py[0m
+[0;34m[2025-01-18 14:50:30] Starting execution of 0clean_folder.py[0m
+[0;32m[2025-01-18 14:50:30] Successfully completed 0clean_folder.py[0m
+[0;32m[2025-01-18 14:50:30] All scripts completed successfully[0m

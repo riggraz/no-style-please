@@ -5,3 +5,6 @@
 _site
 vendor
 Gemfile.lock
+.git
+*.py
+*.sh
