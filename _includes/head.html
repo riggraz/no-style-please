@@ -15,6 +15,10 @@
   {%-seo title=false-%}
   {% endcomment %}
   {%-feed_meta-%}
+  
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google_analytics.html -%}
+  {%- endif -%}
 
   <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
