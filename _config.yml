@@ -35,3 +35,6 @@ jektex:
   macros:
     - ["\\Q", "\\mathbb{Q}"]
     - ["\\C", "\\mathbb{C}"]
+
+exclude:
+  - .jektex-cache
