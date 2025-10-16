@@ -2,8 +2,8 @@
 layout: post
 ---
 
-This post is here to test [$$\jektex$$](https://github.com/yagarea/jektex),
-a lightweight jekyll plugin for LaTeX rendering $$\LaTeX$$.
+This post is here to test [jektex](https://github.com/yagarea/jektex),
+a lightweight jekyll plugin for LaTeX rendering.
 
 ## Inline example
 Lorem ipsum dolor sit amet, consectetur $$e^{i\theta}=\cos(\theta)+i\sin(\theta)$$
