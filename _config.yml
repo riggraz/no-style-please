@@ -1,37 +1,537 @@
-title: no style, please! # name of the site
-author: Soeun Lee # name of site's author
-email: isoeun0220@gmail.com # email of site's author
-url: https://kyu-sw.github.io/SoeunLee/ # root address of the site
-baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>이소은 | Academic & Career Portfolio</title>
+    
+    <!-- Minimalist Typography & System Font-stack -->
+    <style>
+        :root {
+            --bg-color: #ffffff;
+            --text-color: #111111;
+            --text-muted: #666666;
+            --border-color: #dddddd;
+            --link-color: #000000;
+        }
 
-permalink: /:slug.html
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #121212;
+                --text-color: #e0e0e0;
+                --text-muted: #888888;
+                --border-color: #333333;
+                --link-color: #ffffff;
+            }
+        }
 
-favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
-# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
 
-remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            max-width: 750px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
 
-theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
-  lowercase_titles: true # show titles in lowercase in lists
+        /* Typography */
+        h1, h2, h3, h4 {
+            font-weight: 600;
+            line-height: 1.3;
+            margin-top: 2rem;
+            margin-bottom: 0.8rem;
+            color: var(--text-color);
+        }
 
-sass:
-  style: compressed
+        h1 { font-size: 1.8rem; margin-top: 0; }
+        h2 { font-size: 1.3rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.3rem; }
+        h3 { font-size: 1.05rem; }
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jektex
+        p { margin-bottom: 1rem; color: var(--text-color); }
+        small, .muted { color: var(--text-muted); font-size: 0.88rem; }
 
-jektex:
-  cache_dir: ".jektex-cache"
-  ignore: ["*.xml"]
-  silent: false
-  macros:
-    - ["\\Q", "\\mathbb{Q}"]
-    - ["\\C", "\\mathbb{C}"]
+        a {
+            color: var(--link-color);
+            text-decoration: underline;
+            text-underline-offset: 3px;
+        }
+
+        a:hover {
+            background-color: var(--text-color);
+            color: var(--bg-color);
+            text-decoration: none;
+        }
+
+        hr {
+            border: 0;
+            border-top: 1px solid var(--border-color);
+            margin: 2rem 0;
+        }
+
+        /* Navigation */
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2.5rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px dashed var(--border-color);
+            font-family: monospace;
+        }
+
+        nav a {
+            text-decoration: none;
+            margin-right: 0.8rem;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+            background-color: transparent;
+            color: var(--link-color);
+        }
+
+        /* Lists & Items */
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+            margin-bottom: 1.5rem;
+        }
+
+        li {
+            margin-bottom: 0.8rem;
+        }
+
+        .list-item-title {
+            font-weight: 600;
+        }
+
+        /* Section Spacing */
+        section {
+            margin-bottom: 3rem;
+        }
+
+        /* Project / Card minimal list */
+        .project-item {
+            margin-bottom: 1.2rem;
+            padding-bottom: 0.8rem;
+            border-bottom: 1px dotted var(--border-color);
+        }
+
+        /* Comments Form & List */
+        input[type="text"], textarea {
+            width: 100%;
+            padding: 0.5rem;
+            margin-bottom: 0.8rem;
+            background: transparent;
+            border: 1px solid var(--border-color);
+            color: var(--text-color);
+            font-family: inherit;
+            border-radius: 0;
+        }
+
+        button {
+            padding: 0.4rem 0.9rem;
+            background: transparent;
+            border: 1px solid var(--text-color);
+            color: var(--text-color);
+            font-family: monospace;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: var(--text-color);
+            color: var(--bg-color);
+        }
+
+        .comment-box {
+            border-left: 2px solid var(--border-color);
+            padding-left: 0.8rem;
+            margin-bottom: 1rem;
+        }
+
+        /* Minimal Modal */
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.7);
+            align-items: center;
+            justify-content: center;
+            padding: 1rem;
+        }
+
+        .modal-content {
+            background: var(--bg-color);
+            border: 1px solid var(--text-color);
+            padding: 1.5rem;
+            max-width: 500px;
+            width: 100%;
+            position: relative;
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.8rem;
+            background: none;
+            border: none;
+            font-size: 1.2rem;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <div>
+        <a href="#home">~/$</a>
+        <a href="#about">about</a>
+        <a href="#projects">projects</a>
+        <a href="#comments">comments</a>
+        <a href="#contact">contact</a>
+    </div>
+    <div style="font-size: 0.85rem;">
+        [visits: <span id="visit-count">-</span>]
+        <button id="music-btn" onclick="toggleMusic()" style="border:none; padding:0; background:none; text-decoration:underline;">[bgm: off]</button>
+    </div>
+</nav>
+
+<audio id="bgm" src="Peach (복숭아).mp3" loop muted></audio>
+
+<main id="home">
+    <header>
+        <h1 id="hero-name" style="cursor:pointer;" title="Click to view photo">Soeun Lee</h1>
+        <p class="muted" id="hero-role" style="cursor:pointer; font-family: monospace;">[Konyang Univ. National Defense XR Student]</p>
+        
+        <div id="logo-photo-card" style="display:none; margin: 1rem 0;">
+            <img src="홈페이지 사진.jpg" alt="Soeun Lee" style="max-width: 200px; height: auto; border: 1px solid var(--border-color);">
+        </div>
+    </header>
+
+    <p style="margin-top: 1.5rem;">
+        안녕하세요. 기술과 콘텐츠의 융합을 연구하는 이소은입니다.
+    </p>
+
+    <hr>
+
+    <section id="about">
+        <h2 onclick="aboutMeClick(event)" style="cursor:pointer;" title="Click 5 times for easter egg">About Me</h2>
+        <p>
+            건양대학교 AI·SW융합대학 국방XR학부 재학생으로, <strong>XR · 디지털 콘텐츠 · 사용자 경험</strong>을 주요 분야로 연구하고 있습니다.
+        </p>
+        <p><strong>Vision:</strong> 기술로 사람과 사회를 연결하는 혁신적인 XR 전문가가 되고자 합니다.</p>
+
+        <br>
+        <h3>Courses</h3>
+        <p><strong>[전공 1학년]</strong> 메타버스프로그래밍, 실감미디어컴퓨팅개론, XR콘텐츠문화지형도</p>
+        <p><strong>[교양]</strong> SDGs 지역사회문제해결, DYC_인간에 대한 다학문적 이해, 비판적 사고와 글쓰기, DYT_뮤지컬</p>
+
+        <br>
+        <h3>Skills & Certifications</h3>
+        <p><strong>Programming:</strong> Python, C++, Lua, HTML/CSS/JavaScript</p>
+        <p><strong>Certifications:</strong> 태권도 4단, 한국사능력검정시험 3급, 운전면허 1종, CPR 일반인 심화과정 수료, ACP Photoshop</p>
+
+        <br>
+        <h3>Experience</h3>
+        <ul>
+            <li>
+                <div class="list-item-title">폐전자제품을 활용한 레이저 태그 서바이벌 게임 제작 (2024.03 ~ 2024.12)</div>
+                <div class="muted">한민고 공학 동아리 엔지니어스 · 공간 구성 및 디자인</div>
+            </li>
+            <li>
+                <div class="list-item-title">제23회 대학생 안보토론대회 중고등부 포스터 제작 (2024.10)</div>
+                <div class="muted">육군사관학교·세종대학교 주관 · 정책 제안 및 포스터 제작</div>
+            </li>
+            <li>
+                <div class="list-item-title">PLAY백제 AI 영상 공모전 참가 (2026.06)</div>
+                <div class="muted">백제세계유산센터 주관 · AI 활용 게임 트레일러 영상 제작</div>
+            </li>
+            <li>
+                <div class="list-item-title">연극 &lt;리투아니아&gt; (2026.03 ~)</div>
+                <div class="muted">극단 예인 · 딸 안나 役</div>
+            </li>
+            <li>
+                <div class="list-item-title">배드민턴 동아리 Smash (2026.03 ~)</div>
+            </li>
+        </ul>
+
+        <h3>Awards</h3>
+        <ul>
+            <li>
+                <div class="list-item-title">제23회 대학생 안보토론대회 중고등부 우수상 (2024.10)</div>
+                <div class="muted">육군사관학교·세종대학교 주관</div>
+            </li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <p class="muted">학기별 및 개인 주요 프로젝트 목록입니다.</p>
+
+        <h3>1학년 1학기</h3>
+        <div class="project-item">
+            <div><strong><a href="https://www.roblox.com/ko/games/71383658861677/MazeRunner-map" target="_blank">Escape the Maze : 메이즈러너</a></strong></div>
+            <div class="muted">메타버스프로그래밍</div>
+        </div>
+        <div class="project-item">
+            <div><strong><a href="https://app.notion.com/p/VR-RPG-223566149941428c857f3aeccc389404?source=copy_link" target="_blank">&lt;역사를 바꾸다 : 백강전투&gt; VR역사전략RPG게임 기획</a></strong></div>
+            <div class="muted">XR콘텐츠문화지형도</div>
+        </div>
+        <div class="project-item">
+            <div><strong><a href="https://app.notion.com/p/AR-Navigation-c180f3ca7e214dedb8b7b57029753ed5?source=copy_link" target="_blank">네이버 지도로 알아보는 실내 AR Navigation 기술</a></strong></div>
+            <div class="muted">실감미디어컴퓨팅개론</div>
+        </div>
+        <div class="project-item">
+            <div><strong><a href="https://app.notion.com/p/Pseudo-Haptic-Multimodal-Feedback-22147a66e4e1445886fb6e00429c2277?source=copy_link" target="_blank">Pseudo-Haptic, Multimodal Feedback 기술 연구</a></strong></div>
+            <div class="muted">실감미디어컴퓨팅개론</div>
+        </div>
+        <div class="project-item">
+            <div><strong><a href="https://app.notion.com/p/387ec9659a8480729e02da7ec0182b2e?source=copy_link" target="_blank">나를 들여다보는 인정과 자기이해</a></strong></div>
+            <div class="muted">DYC_인간에 대한 다학문적 이해</div>
+        </div>
+        <div class="project-item">
+            <div><strong><a href="https://app.notion.com/p/SDGs-387ec9659a84809f9b99f43df9e1f613?source=copy_link" target="_blank">못난이 농산물 재활용을 통한 취약계층 식사 지원 정책 제안</a></strong></div>
+            <div class="muted">SDGs 지역사회 문제해결</div>
+        </div>
+        <div class="project-item">
+            <div><strong><a href="https://www.youtube.com/shorts/YOHrg-G4kqQ" target="_blank">초록빛 별의 노래 (시카고 패러디)</a></strong></div>
+            <div class="muted">DYT_뮤지컬</div>
+        </div>
+
+        <h3>개인 프로젝트</h3>
+        <div class="project-item">
+            <div><strong><a href="sync_test_v3.html" target="_blank">오디오 싱크 테스트 (Sync Test v3)</a></strong></div>
+            <p style="font-size: 0.9rem; margin-bottom: 0.2rem;">멀티모달 피드백을 직접 체험해볼 수 있는 웹 테스트 환경 [HTML / CSS / JS]</p>
+        </div>
+        <div class="project-item">
+            <div><strong><a href="https://soeun-00.github.io/tarot-frontend/" target="_blank">타로 AI (Tarot AI)</a></strong></div>
+            <p style="font-size: 0.9rem; margin-bottom: 0.2rem;">AI가 타로 카드를 분석하고 해석해주는 웹 서비스 [HTML / CSS / JS]</p>
+        </div>
+    </section>
+
+    <hr>
+
+    <section id="comments">
+        <h2>Comments</h2>
+        <div style="margin-top: 1rem;">
+            <input id="comment-name" type="text" placeholder="닉네임" maxlength="20">
+            <textarea id="comment-text" placeholder="댓글 내용 입력..."></textarea>
+            <button type="button" onclick="submitComment()">[Submit]</button>
+        </div>
+
+        <div id="comments-list" style="margin-top: 1.5rem;">
+            <p class="muted">Loading comments...</p>
+        </div>
+    </section>
+
+    <hr>
+
+    <section id="contact">
+        <h2 id="connect-title" onclick="connectClick(event)" style="cursor:pointer;" title="Click 5 times for easter egg">Contact</h2>
+        <p style="margin-top: 0.5rem;">프로젝트 및 학술 활동과 관련해 연락은 아래 채널로 가능합니다.</p>
+        <p style="font-family: monospace;">
+            - Email: <a href="mailto:isoeun0220@gmail.com">isoeun0220@gmail.com</a><br>
+            - GitHub: <a href="https://github.com" target="_blank">github.com</a><br>
+            - Instagram: <a href="https://www.instagram.com/eunth0i" target="_blank">@eunth0i</a><br>
+            - DevLog: <a href="devlog.html">devlog.html</a>
+        </p>
+    </section>
+</main>
+
+<footer style="margin-top: 4rem; padding-top: 1rem; border-top: 1px solid var(--border-color); font-family: monospace; font-size: 0.82rem;">
+    <p>&copy; 2026 Soeun Lee. Built with pure minimal layout.</p>
+</footer>
+
+<!-- TMI Quiz Modal -->
+<div id="tmi-overlay" class="modal-overlay" onclick="if(event.target===this)closeQuiz()">
+    <div class="modal-content">
+        <button class="close-btn" onclick="closeQuiz()">&times;</button>
+        <h3>TMI Quiz</h3>
+        <p class="muted" style="margin-bottom: 1rem;">모두 맞추시면 보상을 드립니다.</p>
+        <div id="quiz-questions"></div>
+    </div>
+</div>
+
+<script>
+    const DB_URL = 'https://website-a92c1-default-rtdb.firebaseio.com';
+
+    // Firebase Comments System
+    function escapeHtml(str) {
+        return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+    }
+
+    function commentHtml(c) {
+        const date = new Date(c.timestamp).toLocaleDateString('ko-KR', { year:'numeric', month:'2-digit', day:'2-digit' });
+        return `<div class="comment-box">
+            <div style="font-family:monospace; font-size:0.85rem;">
+                <strong>${escapeHtml(c.name)}</strong> <span class="muted">(${date})</span>
+                ${c.pinned ? '<span>[Pinned]</span>' : ''}
+                <button onclick="pinComment('${c._key}', ${!!c.pinned})" style="border:none; background:none; padding:0; text-decoration:underline;">[pin]</button>
+                <button onclick="deleteComment('${c._key}')" style="border:none; background:none; padding:0; text-decoration:underline;">[del]</button>
+            </div>
+            <p style="margin-top:0.3rem; margin-bottom:0;">${escapeHtml(c.text)}</p>
+        </div>`;
+    }
+
+    function renderComments(data) {
+        const list = document.getElementById('comments-list');
+        if (!data) {
+            list.innerHTML = '<p class="muted">아직 작성된 댓글이 없습니다.</p>';
+            return;
+        }
+        const comments = Object.entries(data).map(([key, val]) => ({ _key: key, ...val }));
+        const pinned = comments.filter(c => c.pinned).sort((a, b) => b.timestamp - a.timestamp);
+        const normal = comments.filter(c => !c.pinned).sort((a, b) => b.timestamp - a.timestamp);
+        
+        list.innerHTML = pinned.map(commentHtml).join('') + normal.map(commentHtml).join('');
+    }
+
+    function loadComments() {
+        fetch(`${DB_URL}/comments.json`)
+            .then(r => r.json())
+            .then(data => renderComments(data))
+            .catch(() => renderComments(null));
+    }
+
+    function submitComment() {
+        const name = document.getElementById('comment-name').value.trim();
+        const text = document.getElementById('comment-text').value.trim();
+        if (!name || !text) { alert('닉네임과 내용을 모두 입력해주세요.'); return; }
+        
+        fetch(`${DB_URL}/comments.json`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ name, text, timestamp: Date.now() })
+        })
+        .then(() => {
+            document.getElementById('comment-text').value = '';
+            loadComments();
+        })
+        .catch(err => alert('오류 발생: ' + err.message));
+    }
+
+    function pinComment(key, isPinned) {
+        const pw = prompt('관리자 비밀번호:');
+        if (pw === 'password') {
+            fetch(`${DB_URL}/comments/${key}.json`, {
+                method: 'PATCH',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ pinned: !isPinned })
+            }).then(() => loadComments());
+        } else if (pw !== null) { alert('비밀번호 불일치'); }
+    }
+
+    function deleteComment(key) {
+        const pw = prompt('관리자 비밀번호:');
+        if (pw === 'password') {
+            fetch(`${DB_URL}/comments/${key}.json`, { method: 'DELETE' }).then(() => loadComments());
+        } else if (pw !== null) { alert('비밀번호 불일치'); }
+    }
+
+    loadComments();
+
+    // Photo toggle
+    let photoOpen = false;
+    document.getElementById('hero-name').addEventListener('click', () => {
+        photoOpen = !photoOpen;
+        document.getElementById('logo-photo-card').style.display = photoOpen ? 'block' : 'none';
+    });
+
+    // BGM Audio Toggle
+    const bgm = document.getElementById('bgm');
+    const musicBtn = document.getElementById('music-btn');
+    let musicOn = false;
+
+    function toggleMusic() {
+        musicOn = !musicOn;
+        if (musicOn) {
+            bgm.muted = false;
+            bgm.play().catch(() => {});
+            musicBtn.textContent = '[bgm: on]';
+        } else {
+            bgm.muted = true;
+            musicBtn.textContent = '[bgm: off]';
+        }
+    }
+
+    // Visit tracker
+    function trackVisit() {
+        const kst = new Date(Date.now() + 9 * 60 * 60 * 1000).toISOString().slice(0, 10);
+        fetch(`${DB_URL}/visits/${kst}.json`, {
+            method: 'PUT',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ '.sv': { 'increment': 1 } })
+        })
+        .then(r => r.json())
+        .then(count => { document.getElementById('visit-count').textContent = count; })
+        .catch(() => { document.getElementById('visit-count').textContent = '?'; });
+    }
+    trackVisit();
+
+    // Easter egg: TMI Quiz
+    let aboutClickCount = 0;
+    function aboutMeClick() {
+        aboutClickCount++;
+        if (aboutClickCount >= 5) {
+            aboutClickCount = 0;
+            openQuiz();
+        }
+    }
+
+    const quizData = [
+        { q: 'Q1. 다녀온 여행지는?', opts: ['대만', '필리핀', '중국-상하이'], answer: 0 },
+        { q: 'Q2. 시험 전날 가장 많이 하는 생각은?', opts: ['망했다', '어떡하지?', '아직 하루나 남았네~'], answer: 1 },
+        { q: 'Q3. 생일은?', opts: ['0223', '0202', '0220'], answer: 2 }
+    ];
+    let quizAnswers = [null, null, null];
+
+    function openQuiz() {
+        quizAnswers = [null, null, null];
+        const qc = document.getElementById('quiz-questions');
+        qc.innerHTML = quizData.map((q, qi) =>
+            `<div style="margin-bottom:1rem;">
+                <p><strong>${q.q}</strong></p>
+                ${q.opts.map((opt, oi) =>
+                    `<label style="display:block; margin:0.2rem 0; font-family:monospace;">
+                        <input type="radio" name="q${qi}" onclick="quizAnswers[${qi}]=${oi}"> ${opt}
+                    </label>`
+                ).join('')}
+            </div>`
+        ).join('') + `<button onclick="showFinalResult()" style="width:100%; margin-top:0.5rem;">[제출하기]</button>`;
+        document.getElementById('tmi-overlay').style.display = 'flex';
+    }
+
+    function closeQuiz() { document.getElementById('tmi-overlay').style.display = 'none'; }
+
+    function showFinalResult() {
+        closeQuiz();
+        const allCorrect = quizAnswers.every((a, i) => a === quizData[i].answer);
+        if (allCorrect) {
+            alert('🎉 정답입니다! 연락처로 123을 보내주세요!');
+        } else {
+            alert('😭 오답이 있습니다. 다시 시도해보세요!');
+        }
+    }
+
+    // Easter egg: Contact hearts
+    let connectClickCount = 0;
+    function connectClick() {
+        connectClickCount++;
+        if (connectClickCount >= 5) {
+            connectClickCount = 0;
+            alert('❤️ (Easter egg triggered!)');
+        }
+    }
+</script>
+
+</body>
+</html>
